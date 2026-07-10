@@ -1,0 +1,152 @@
+feature,mean_abs_shap,group
+minutos_2324,0.28246728446351,Participacion
+edad,0.269552892404639,Fisiologia
+puntos_en_1a,0.261493426718808,Contexto
+grupo_equipochampions,0.11496763381014,Contexto
+contrato,0.0800931267577186,Contexto
+area_raw,0.0690299956602945,Otros
+progressive_passing_ratio,0.0587163092482733,Pase y progresion
+variacion_min,0.0398944285150205,Participacion
+grupo_paisEspaña,0.0393274915157981,Contexto
+shots_on_target90,0.0346446076697715,Ataque
+exceso_riesgo_hist_pos,0.0300549412681453,Riesgo lesion
+long_passes_completed90,0.0286837818078609,Pase y progresion
+xg90,0.0281924606304913,Ataque
+shot_quality,0.0279317597224968,Ataque
+deep_progression,0.025250183403852,Pase y progresion
+verticality,0.0249471515617068,Pase y progresion
+discipline_penalty,0.0228441122535582,Defensa
+centrality,0.0223136582584451,Creacion y participacion
+exceso_riesgo_lesion_exposicion,0.0198785741893048,Riesgo lesion
+involvement,0.0191093004514624,Creacion y participacion
+deep_passes_completed90,0.0187730514849171,Pase y progresion
+foul_draw_rate,0.0186094982928719,Creacion y participacion
+grupo_equipoeuropa,0.0184950714674148,Contexto
+goles90,0.0180637864841596,Ataque
+def_activity_per_foul,0.0175200882857319,Defensa
+finishing_ratio,0.017400714583186,Ataque
+defensive_duels_won90,0.016758719315258,Defensa
+Altura,0.0161468564635808,Fisiologia
+remates90,0.0146920922991492,Ataque
+penetration,0.0145513805492909,Otros
+defensive_impact,0.014539019777044,Defensa
+aerial_duels_won90,0.0136410134638239,Defensa
+key_passes90,0.0130443690146874,Pase y progresion
+final_third_passes_completed90,0.0130136522449293,Pase y progresion
+expected_offensive_impact,0.0129748332414524,Ataque
+passes_completed90,0.0116899333393692,Pase y progresion
+pct_posicion_principal,0.0116323719055803,Rol y posicion
+progressive_passes90,0.0110507271812797,Pase y progresion
+goal_conversion,0.0106738867452445,Otros
+progression_index,0.0088824025530952,Pase y progresion
+def_activity,0.0088574066884194,Defensa
+defense_global,0.0083325004730794,Defensa
+clean_defense,0.0080523889332871,Defensa
+creativity_index,0.0077984639652487,Creacion y participacion
+rank,0.0077239320409655,Contexto
+crossing_threat,0.0075613491306793,Creacion y participacion
+attacking_duels_won90,0.0074570394098703,Defensa
+progressive_passes_completed90,0.0071373947131007,Pase y progresion
+progression_eff,0.0065762920925407,Pase y progresion
+assist_involvement,0.0060952395180429,Creacion y participacion
+box_progression,0.0056922632993293,Ataque
+dribbles_completed90,0.0055272284180331,Creacion y participacion
+movement_threat,0.0053439210702974,Otros
+grupo_equipomedia_tabla,0.0051137144890503,Contexto
+npg_minus_xg90,0.0048230773725773,Ataque
+versatilidad_posicional,0.0048196980968726,Rol y posicion
+assist90,0.0045995364215212,Creacion y participacion
+xa90,0.004422266739162,Otros
+forward_passes_completed90,0.0043547080041294,Pase y progresion
+Peso,0.0039192372008779,Fisiologia
+n_posiciones,0.0037839443074616,Rol y posicion
+offensive_duel_proxy,0.0037173508149002,Defensa
+offensive_impact,0.0034759836392632,Ataque
+final_third_ratio,0.0032319618187747,Otros
+Pieizquierdo,0.0026719305858597,Fisiologia
+chance_creation,0.0025065328404929,Creacion y participacion
+pct_posicion_secundaria,0.0024002388900415,Rol y posicion
+assist_chain90,0.0023904857431831,Creacion y participacion
+box_threat,0.0021157353897827,Ataque
+grupo_equipodescenso,0.0020462561943447,Contexto
+linea_secundariaMID,0.0018217599267504,Rol y posicion
+box_presence,0.0017207556536536,Ataque
+crosses_completed90,0.0016009737624086,Creacion y participacion
+linea_principalDEF,0.0008739350706927,Rol y posicion
+posicion_principalWF,0.0005878260270631,Rol y posicion
+Piederecho,0.0003468074432738,Fisiologia
+Pieambidiestro,0.0,Fisiologia
+grupo_paisArgentina,0.0,Contexto
+grupo_paisAsia...Oceanía,0.0,Contexto
+grupo_paisBrasil,0.0,Contexto
+grupo_paisDesconocido,0.0,Contexto
+grupo_paisEuropa.este...Balcanes,0.0,Contexto
+grupo_paisEuropa.resto,0.0,Contexto
+grupo_paisEuropa.top.occidental,0.0,Contexto
+grupo_paisFrancia,0.0,Contexto
+grupo_paisNorte.de.África,0.0,Contexto
+grupo_paisNorteamérica...Centroamérica...Caribe,0.0,Contexto
+grupo_paisPortugal,0.0,Contexto
+grupo_paisSudamérica.exportadora,0.0,Contexto
+posicion_principalCB,0.0,Rol y posicion
+posicion_principalCF,0.0,Rol y posicion
+posicion_principalCMF,0.0,Rol y posicion
+posicion_principalDMF,0.0,Rol y posicion
+posicion_principalFB,0.0,Rol y posicion
+posicion_secundariaCB,0.0,Rol y posicion
+posicion_secundariaCF,0.0,Rol y posicion
+posicion_secundariaCMF,0.0,Rol y posicion
+posicion_secundariaDesconocido,0.0,Rol y posicion
+posicion_secundariaDMF,0.0,Rol y posicion
+posicion_secundariaFB,0.0,Rol y posicion
+posicion_secundariaWF,0.0,Rol y posicion
+perfil_posicionalpolivalente,0.0,Rol y posicion
+perfil_posicionalprincipal_clara,0.0,Rol y posicion
+linea_principalMID,0.0,Rol y posicion
+linea_secundariaDEF,0.0,Rol y posicion
+linea_secundariaOTRO,0.0,Rol y posicion
+rol_principalAMF_2,0.0,Rol y posicion
+rol_principalCB_1,0.0,Rol y posicion
+rol_principalCB_2,0.0,Rol y posicion
+rol_principalCB_3,0.0,Rol y posicion
+rol_principalCF_1,0.0,Rol y posicion
+rol_principalCF_2,0.0,Rol y posicion
+rol_principalCF_3,0.0,Rol y posicion
+rol_principalCMF_1,0.0,Rol y posicion
+rol_principalCMF_2,0.0,Rol y posicion
+rol_principalCMF_3,0.0,Rol y posicion
+rol_principalDMF_1,0.0,Rol y posicion
+rol_principalDMF_2,0.0,Rol y posicion
+rol_principalFB_1,0.0,Rol y posicion
+rol_principalFB_2,0.0,Rol y posicion
+rol_principalFB_3,0.0,Rol y posicion
+rol_principalWF_1,0.0,Rol y posicion
+rol_principalWF_2,0.0,Rol y posicion
+rol_principalWF_3,0.0,Rol y posicion
+rol_secundarioAMF_2,0.0,Rol y posicion
+rol_secundarioCB_1,0.0,Rol y posicion
+rol_secundarioCB_2,0.0,Rol y posicion
+rol_secundarioCB_3,0.0,Rol y posicion
+rol_secundarioCF_1,0.0,Rol y posicion
+rol_secundarioCF_2,0.0,Rol y posicion
+rol_secundarioCF_3,0.0,Rol y posicion
+rol_secundarioCMF_1,0.0,Rol y posicion
+rol_secundarioCMF_2,0.0,Rol y posicion
+rol_secundarioCMF_3,0.0,Rol y posicion
+rol_secundarioDesconocido,0.0,Rol y posicion
+rol_secundarioDMF_1,0.0,Rol y posicion
+rol_secundarioDMF_2,0.0,Rol y posicion
+rol_secundarioFB_1,0.0,Rol y posicion
+rol_secundarioFB_2,0.0,Rol y posicion
+rol_secundarioFB_3,0.0,Rol y posicion
+rol_secundarioWF_1,0.0,Rol y posicion
+rol_secundarioWF_2,0.0,Rol y posicion
+rol_secundarioWF_3,0.0,Rol y posicion
+posicion_rol_secundarioCB,0.0,Rol y posicion
+posicion_rol_secundarioCF,0.0,Rol y posicion
+posicion_rol_secundarioCMF,0.0,Rol y posicion
+posicion_rol_secundarioDesconocido,0.0,Rol y posicion
+posicion_rol_secundarioDMF,0.0,Rol y posicion
+posicion_rol_secundarioFB,0.0,Rol y posicion
+posicion_rol_secundarioWF,0.0,Rol y posicion
+polivalencia_globalmuy_polivalente,0.0,Rol y posicion

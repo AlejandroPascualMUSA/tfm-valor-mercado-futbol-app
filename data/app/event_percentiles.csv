@@ -1,0 +1,1297 @@
+team,player_name,player_id,position,event_name,count_event,count_event_neighbor,puntos_total,minutes_played,cluster,rol,percentile_position,percentile_role,primary_position,primary_role,market_value_mill
+Demo Club Norte,Player_001,900001,AMF,Pass,29,13,4.2657,749.0,1,Advanced Playmaker,77.89566159198328,76.76477732440529,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Long ball,12,6,1.8024,749.0,1,Advanced Playmaker,68.36006753984586,35.05860068517585,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Wide ball,13,6,1.9226,749.0,1,Advanced Playmaker,55.83589129105524,42.795221258688926,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Through ball,24,17,3.9052,749.0,1,Advanced Playmaker,39.173382374537454,56.072157007640584,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Progressive pass,16,2,2.0427,749.0,1,Advanced Playmaker,45.00308618144259,29.51247247612489,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Key pass,24,26,4.4459,749.0,1,Advanced Playmaker,92.13325387531269,92.36813580950951,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Take on,23,12,3.4846,749.0,1,Advanced Playmaker,5.3980259142569125,49.17598970459399,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Foul commit,17,8,2.5234,749.0,1,Advanced Playmaker,30.998929923321302,74.16951659644671,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Foul Won,19,13,3.0641,749.0,1,Advanced Playmaker,43.76117189579789,8.639028938567158,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Tackle,12,4,1.6822,749.0,1,Advanced Playmaker,59.92358658123401,40.192259160160646,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Defensive reading,13,6,1.9226,749.0,1,Advanced Playmaker,46.231227945875744,34.52238088964462,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Clearance,14,7,2.1028,749.0,1,Advanced Playmaker,55.422617702767326,18.566059644477427,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Shot,37,14,5.287,749.0,1,Advanced Playmaker,52.00127437827736,48.80479258576735,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Aerial,10,5,1.502,749.0,1,Advanced Playmaker,55.11657330234168,85.68401716078654,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Ball recovery,13,10,2.1629,749.0,1,Advanced Playmaker,38.6430291056226,46.34317240837616,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,AMF,Turnover,11,7,1.7423,749.0,1,Advanced Playmaker,36.78298055490649,46.15437098653893,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Pass,14,8,2.1629,749.0,3,Target Man,73.95783962378609,89.68767461374887,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Long ball,5,4,0.8411,749.0,3,Target Man,15.842024089603537,71.406571205826,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Wide ball,10,2,1.3218,749.0,3,Target Man,32.32911505510789,33.4128355420121,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Through ball,6,7,1.1415,749.0,3,Target Man,11.801332033007718,32.543240941592174,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Progressive pass,10,2,1.3218,749.0,3,Target Man,51.75435111284516,28.998239778518155,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Key pass,6,8,1.2016,749.0,3,Target Man,43.122839914072955,70.43908579618193,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Take on,23,17,3.785,749.0,3,Target Man,49.45383057114936,80.77911427213604,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Foul commit,8,3,1.1415,749.0,3,Target Man,28.090483140702602,31.615450163084663,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Foul Won,20,11,3.0641,749.0,3,Target Man,53.5775592898339,44.30605470305735,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Tackle,11,3,1.502,749.0,3,Target Man,34.10041386288691,52.1226169649845,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Defensive reading,10,5,1.502,749.0,3,Target Man,53.03591588934957,31.652626839581046,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Clearance,10,4,1.4419,749.0,3,Target Man,69.29855862008316,48.068475370610365,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Shot,43,18,6.2483,749.0,3,Target Man,100.0,53.85181276756293,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Aerial,33,14,4.8064,749.0,3,Target Man,49.994596529832535,43.44564489914803,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Ball recovery,10,10,1.8024,749.0,3,Target Man,24.056080375177565,30.399267867921242,AMF,Advanced Playmaker,16.8
+Demo Club Norte,Player_001,900001,CF,Turnover,21,14,3.3645,749.0,3,Target Man,33.648686628764544,58.07307250798967,AMF,Advanced Playmaker,16.8
+Demo Club Capital,Player_002,900002,CMF,Pass,49,18,2.3535,2218.0,2,Holding Midfielder,63.148321370882385,39.97410343714417,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Long ball,13,8,0.6898,2218.0,2,Holding Midfielder,25.424427222972632,38.4062429302419,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Wide ball,15,5,0.7101,2218.0,2,Holding Midfielder,56.09738424631513,60.1254003161376,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Through ball,19,11,0.9941,2218.0,2,Holding Midfielder,59.52146637261214,59.09064024409716,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Progressive pass,32,11,1.5216,2218.0,2,Holding Midfielder,88.23984543058418,80.46948252301164,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Key pass,29,9,1.3593,2218.0,2,Holding Midfielder,41.729098548355964,55.115065247140066,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Take on,13,7,0.6695,2218.0,2,Holding Midfielder,58.071686673553984,39.04016041602981,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Foul commit,5,6,0.3246,2218.0,2,Holding Midfielder,38.10275575975992,29.819357418840305,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Foul Won,25,10,1.2173,2218.0,2,Holding Midfielder,66.0639894669126,63.25351135007755,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Tackle,12,3,0.5478,2218.0,2,Holding Midfielder,69.65488556040336,41.30723237048234,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Defensive reading,16,4,0.7304,2218.0,2,Holding Midfielder,60.399762537784056,41.7193070466813,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Clearance,8,3,0.3855,2218.0,2,Holding Midfielder,28.99607070724405,93.8066548538294,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Shot,7,10,0.4869,2218.0,2,Holding Midfielder,47.578938616604354,12.735803372511871,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Aerial,13,8,0.6898,2218.0,2,Holding Midfielder,41.732568513550255,30.95012333997132,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Ball recovery,22,13,1.1564,2218.0,2,Holding Midfielder,63.246905290602314,52.08223351804663,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,CMF,Turnover,6,6,0.3652,2218.0,2,Holding Midfielder,51.889171871278194,4.811384376600913,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Pass,41,20,2.0694,2218.0,1,Deep Lying Playmaker,90.39202589018781,91.27098452790693,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Long ball,19,11,0.9941,2218.0,1,Deep Lying Playmaker,24.153541395670416,71.09639608320437,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Wide ball,14,9,0.7507,2218.0,1,Deep Lying Playmaker,39.748098849231205,41.142216721478185,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Through ball,11,5,0.5478,2218.0,1,Deep Lying Playmaker,57.06490392855217,62.86663225189526,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Progressive pass,30,13,1.4811,2218.0,1,Deep Lying Playmaker,55.6236111694073,95.00755162921415,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Key pass,21,6,0.9739,2218.0,1,Deep Lying Playmaker,72.80396660484092,32.00488950237024,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Take on,12,4,0.5681,2218.0,1,Deep Lying Playmaker,42.59434413709415,41.09537803196484,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Foul commit,13,3,0.5884,2218.0,1,Deep Lying Playmaker,17.171925258111266,22.628334548389272,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Foul Won,8,3,0.3855,2218.0,1,Deep Lying Playmaker,35.61161299538131,75.90072349025542,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Tackle,39,13,1.8463,2218.0,1,Deep Lying Playmaker,90.51360803858812,45.39349869992576,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Defensive reading,42,20,2.11,2218.0,1,Deep Lying Playmaker,53.446151756736086,83.6847315958999,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Clearance,14,6,0.6898,2218.0,1,Deep Lying Playmaker,21.162110794177735,50.139239641565545,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Shot,11,11,0.6695,2218.0,1,Deep Lying Playmaker,40.209157604863165,59.73632259234627,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Aerial,6,4,0.3246,2218.0,1,Deep Lying Playmaker,41.96636038424918,25.44285303119216,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Ball recovery,39,20,1.9883,2218.0,1,Deep Lying Playmaker,84.52799857242438,62.17194645552078,CMF,Holding Midfielder,6.04
+Demo Club Capital,Player_002,900002,DMF,Turnover,14,10,0.771,2218.0,1,Deep Lying Playmaker,43.005330139708555,76.90584745673686,CMF,Holding Midfielder,6.04
+Demo Club Mediterráneo,Player_003,900003,CMF,Pass,43,23,2.7775,1766.0,2,Holding Midfielder,95.66697682263418,19.68472452474014,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Long ball,11,7,0.739,1766.0,2,Holding Midfielder,70.1650483833258,48.01081579255771,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Wide ball,10,9,0.739,1766.0,2,Holding Midfielder,43.81009656525193,56.14392769712733,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Through ball,24,7,1.4015,1766.0,2,Holding Midfielder,23.809332249980145,45.81559565617775,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Progressive pass,36,12,2.1404,1766.0,2,Holding Midfielder,68.59727139624708,56.997729277947585,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Key pass,29,5,1.6053,1766.0,2,Holding Midfielder,4.727933089639272,54.104963867331385,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Take on,16,5,0.9428,1766.0,2,Holding Midfielder,45.969873816437165,31.94587073281894,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Foul commit,13,4,0.7644,1766.0,2,Holding Midfielder,53.23896764654769,18.640103209645027,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Foul Won,18,4,1.0193,1766.0,2,Holding Midfielder,37.875532569317215,47.945975630795715,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Tackle,7,8,0.5606,1766.0,2,Holding Midfielder,37.394220610752456,50.74323970858374,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Defensive reading,12,7,0.7899,1766.0,2,Holding Midfielder,43.48286575880789,43.616573208853175,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Clearance,10,8,0.7135,1766.0,2,Holding Midfielder,39.5103011961396,27.25997504608452,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Shot,12,10,0.8664,1766.0,2,Holding Midfielder,35.467725946312186,15.87481261736453,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Aerial,18,5,1.0447,1766.0,2,Holding Midfielder,40.68487259063653,43.22600797128487,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Ball recovery,33,9,1.9111,1766.0,2,Holding Midfielder,53.58981356207151,54.28655809939326,CMF,Holding Midfielder,7.46
+Demo Club Mediterráneo,Player_003,900003,CMF,Turnover,12,4,0.7135,1766.0,2,Holding Midfielder,54.256370192664775,16.567359532938013,CMF,Holding Midfielder,7.46
+Demo Club Atlántico,Player_004,900004,CF,Pass,15,11,1.4867,1241.0,1,Poacher,60.06674603277249,55.96658390612623,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Long ball,14,5,1.1966,1241.0,1,Poacher,53.67556605966173,47.620956025336994,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Wide ball,7,5,0.689,1241.0,1,Poacher,31.938305055682335,60.26417659243576,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Through ball,11,6,1.0153,1241.0,1,Poacher,64.45110063270691,77.1178381316183,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Progressive pass,7,8,0.7977,1241.0,1,Poacher,26.819497433203953,45.036947697493,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Key pass,12,4,1.0153,1241.0,1,Poacher,45.507539136817705,53.71666925656677,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Take on,26,9,2.2119,1241.0,1,Poacher,36.152781047200435,54.60154963379156,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Foul commit,16,5,1.3417,1241.0,1,Poacher,52.12125277459091,5.5953672659703955,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Foul Won,22,13,2.0669,1241.0,1,Poacher,42.75789302299713,56.29136363855743,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Tackle,11,8,1.0878,1241.0,1,Poacher,27.55253468091709,36.70901458099435,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Defensive reading,13,6,1.1604,1241.0,1,Poacher,21.531426988706848,31.557102244787856,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Clearance,6,4,0.5802,1241.0,1,Poacher,37.198073798865146,21.688055319328193,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Shot,38,18,3.4085,1241.0,1,Poacher,59.683310883112185,83.9314445207723,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Aerial,34,16,3.0459,1241.0,1,Poacher,85.63321405254588,65.11312226008793,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Ball recovery,11,13,1.2691,1241.0,1,Poacher,37.01421144631092,37.72029875600036,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,CF,Turnover,28,10,2.3932,1241.0,1,Poacher,77.91619931176717,63.56618779817762,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Pass,11,5,0.979,1241.0,1,Inside Forward,33.190883800433745,25.54559736171484,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Long ball,8,6,0.7977,1241.0,1,Inside Forward,87.39880515951288,70.61137095241773,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Wide ball,27,17,2.5745,1241.0,1,Inside Forward,52.365683085545655,67.06820898191707,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Through ball,19,5,1.5592,1241.0,1,Inside Forward,40.044993166932606,79.75720017545157,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Progressive pass,28,13,2.502,1241.0,1,Inside Forward,81.78988558104706,74.60838545555721,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Key pass,30,10,2.5383,1241.0,1,Inside Forward,54.66968249223403,42.5421480849278,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Take on,33,17,3.0097,1241.0,1,Inside Forward,81.54330792186381,96.32187797832434,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Foul commit,14,8,1.3054,1241.0,1,Inside Forward,32.3820239557587,28.393182182184425,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Foul Won,18,14,1.8131,1241.0,1,Inside Forward,33.18040775881289,60.533286153595895,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Tackle,18,5,1.4867,1241.0,1,Inside Forward,47.934296839076566,9.621025779052125,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Defensive reading,14,5,1.1966,1241.0,1,Inside Forward,57.08096299470718,54.855868803036756,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Clearance,18,5,1.4867,1241.0,1,Inside Forward,33.29353991725148,48.37205600831939,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Shot,31,8,2.5383,1241.0,1,Inside Forward,100.0,83.79522284456328,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Aerial,9,8,0.9428,1241.0,1,Inside Forward,82.0382980679779,25.773249818548646,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Ball recovery,12,4,1.0153,1241.0,1,Inside Forward,16.365344112909213,54.31766280396096,CF,Poacher,2.89
+Demo Club Atlántico,Player_004,900004,WF,Turnover,14,5,1.1966,1241.0,1,Inside Forward,44.249042458433244,27.7999710198367,CF,Poacher,2.89
+Demo Club Sur,Player_005,900005,WF,Pass,15,4,0.5769,2652.0,3,Winger,49.704730852846815,52.16549600203868,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Long ball,10,5,0.4242,2652.0,3,Winger,81.4353463049672,23.569146157733613,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Wide ball,44,16,1.7647,2652.0,3,Winger,88.49625729014109,83.99524699361808,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Through ball,6,8,0.3394,2652.0,3,Winger,39.796187964213075,38.81049817194512,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Progressive pass,20,19,1.0011,2652.0,3,Winger,69.86412893632364,86.60644119340529,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Key pass,16,9,0.6957,2652.0,3,Winger,65.80316996518788,87.73381178067994,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Take on,32,24,1.4932,2652.0,3,Winger,84.34489733406933,76.93832655060886,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Foul commit,14,8,0.6109,2652.0,3,Winger,33.03301698759461,12.665526014706785,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Foul Won,15,9,0.6618,2652.0,3,Winger,58.270300745611586,76.37417459891847,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Tackle,17,1,0.5939,2652.0,3,Winger,34.54747748937051,60.30737965510772,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Defensive reading,12,7,0.526,2652.0,3,Winger,65.5158393329715,0.0,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Clearance,12,4,0.4751,2652.0,3,Winger,48.952492102051224,67.29968978759689,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Shot,36,14,1.4593,2652.0,3,Winger,54.24578977253172,88.75431914049523,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Aerial,11,9,0.526,2652.0,3,Winger,62.644328567428275,20.177442532132304,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Ball recovery,9,9,0.4581,2652.0,3,Winger,32.94466840224975,23.004289309309094,WF,Winger,9.63
+Demo Club Sur,Player_005,900005,WF,Turnover,17,9,0.7296,2652.0,3,Winger,68.01736737501176,63.1954171484999,WF,Winger,9.63
+Demo Club Interior,Player_006,900006,DMF,Pass,37,14,5.019,789.0,1,Deep Lying Playmaker,100.0,46.68722469847724,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Long ball,19,23,3.4791,789.0,1,Deep Lying Playmaker,26.882701935016435,73.91086584115246,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Wide ball,13,6,1.8251,789.0,1,Deep Lying Playmaker,49.18097587057033,60.275704544435825,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Through ball,7,2,0.9125,789.0,1,Deep Lying Playmaker,28.045761839328897,57.93962576121648,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Progressive pass,36,16,5.019,789.0,1,Deep Lying Playmaker,72.86774673338957,53.22424012847128,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Key pass,12,3,1.5399,789.0,1,Deep Lying Playmaker,52.3998651103858,28.049892333439168,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Take on,8,8,1.3688,789.0,1,Deep Lying Playmaker,34.29227667032952,63.008351120354774,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Foul commit,9,8,1.4829,789.0,1,Deep Lying Playmaker,46.51439613300041,46.220657472470435,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Foul Won,13,4,1.711,789.0,1,Deep Lying Playmaker,1.2928329691902434,30.244687837210666,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Tackle,34,21,5.076,789.0,1,Deep Lying Playmaker,95.00744972862228,87.06617595909438,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Defensive reading,48,10,6.0456,789.0,1,Deep Lying Playmaker,51.56812431831582,29.179753522656128,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Clearance,11,7,1.654,789.0,1,Deep Lying Playmaker,43.460950647547484,14.134369524292033,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Shot,14,8,2.0532,789.0,1,Deep Lying Playmaker,82.36476683064288,42.92091865838323,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Aerial,12,12,2.0532,789.0,1,Deep Lying Playmaker,35.415568425233225,63.73520782692712,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Ball recovery,37,16,5.1331,789.0,1,Deep Lying Playmaker,100.0,24.111986360482845,DMF,Deep Lying Playmaker,20.24
+Demo Club Interior,Player_006,900006,DMF,Turnover,6,7,1.0837,789.0,1,Deep Lying Playmaker,43.01132619737393,21.779819191931434,DMF,Deep Lying Playmaker,20.24
+Demo Club Norte,Player_007,900007,WF,Pass,12,7,1.0641,1311.0,1,Inside Forward,31.959144691196173,60.269080147903296,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Long ball,13,5,1.0641,1311.0,1,Inside Forward,24.260550130845747,29.67023995014042,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Wide ball,27,13,2.2998,1311.0,1,Inside Forward,77.28897679799915,82.43350302789379,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Through ball,14,6,1.167,1311.0,1,Inside Forward,15.435990311110821,30.679543347114627,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Progressive pass,31,14,2.6087,1311.0,1,Inside Forward,22.74095137072664,92.04994810531849,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Key pass,19,15,1.8192,1311.0,1,Inside Forward,24.92385195508875,62.03061464557454,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Take on,38,11,2.9863,1311.0,1,Inside Forward,76.45536689368198,85.22684730061339,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Foul commit,16,2,1.167,1311.0,1,Inside Forward,17.160817908308484,96.37665957107603,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Foul Won,26,13,2.2311,1311.0,1,Inside Forward,58.5833308993182,41.11525790019105,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Tackle,10,7,0.9268,1311.0,1,Inside Forward,41.48293488109658,36.275841504378214,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Defensive reading,17,7,1.4073,1311.0,1,Inside Forward,39.00242535952909,76.88085802634484,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Clearance,12,3,0.9268,1311.0,1,Inside Forward,55.317392513970354,31.379279616557987,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Shot,38,20,3.2952,1311.0,1,Inside Forward,51.62966659965193,79.00103453052763,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Aerial,9,9,0.9268,1311.0,1,Inside Forward,32.873426454269506,67.08686918463377,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Ball recovery,12,6,1.0297,1311.0,1,Inside Forward,26.406643851380665,26.216034405793042,WF,Inside Forward,26.27
+Demo Club Norte,Player_007,900007,WF,Turnover,12,5,0.9954,1311.0,1,Inside Forward,27.53071189903502,37.37103207860581,WF,Inside Forward,26.27
+Demo Club Capital,Player_008,900008,AMF,Pass,31,13,1.6741,2016.0,2,Second Striker,70.87348548871698,89.16100028092552,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Long ball,11,4,0.5804,2016.0,2,Second Striker,23.736137386589153,29.02321626375003,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Wide ball,5,4,0.3125,2016.0,2,Second Striker,23.447978215244227,91.4156460119964,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Through ball,32,15,1.7634,2016.0,2,Second Striker,71.26778123733858,35.71742357609245,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Progressive pass,20,2,0.9375,2016.0,2,Second Striker,42.6460286956788,53.33783058942228,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Key pass,41,17,2.2098,2016.0,2,Second Striker,100.0,74.02924734273783,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Take on,21,13,1.2277,2016.0,2,Second Striker,61.5923622108789,79.51843721869021,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Foul commit,16,6,0.8482,2016.0,2,Second Striker,47.45263175485604,19.196849386623455,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Foul Won,23,12,1.2946,2016.0,2,Second Striker,68.81483144956167,85.57269293210587,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Tackle,5,7,0.3795,2016.0,2,Second Striker,31.92794390582125,24.42300265535968,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Defensive reading,15,6,0.8036,2016.0,2,Second Striker,57.24255030499477,54.783872712267254,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Clearance,10,7,0.6027,2016.0,2,Second Striker,19.48900099778355,69.00893838118401,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Shot,26,10,1.3839,2016.0,2,Second Striker,71.28230667862286,46.340604704160434,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Aerial,7,4,0.4018,2016.0,2,Second Striker,42.26681555430563,51.70253824712717,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Ball recovery,13,7,0.7366,2016.0,2,Second Striker,2.5216397377942315,77.88357997249068,AMF,Second Striker,9.48
+Demo Club Capital,Player_008,900008,AMF,Turnover,8,5,0.4688,2016.0,2,Second Striker,54.087255373365835,85.30457534661964,AMF,Second Striker,9.48
+Demo Club Mediterráneo,Player_009,900009,CMF,Pass,30,14,1.1579,2876.0,3,Box-to-box Midfielder,64.76079296323245,90.84865561625145,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Long ball,16,7,0.6102,2876.0,3,Box-to-box Midfielder,60.011719810063084,0.0,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Wide ball,4,2,0.1565,2876.0,3,Box-to-box Midfielder,47.719774770272664,25.35252564196227,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Through ball,31,11,1.1422,2876.0,3,Box-to-box Midfielder,49.54384420135316,52.106267708222546,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Progressive pass,32,14,1.2204,2876.0,3,Box-to-box Midfielder,75.80853756156856,41.296888381504495,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Key pass,32,16,1.2517,2876.0,3,Box-to-box Midfielder,67.87898176683395,55.73564550300738,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Take on,14,4,0.5007,2876.0,3,Box-to-box Midfielder,42.87455847024574,25.378336991244517,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Foul commit,8,5,0.3286,2876.0,3,Box-to-box Midfielder,41.123406859151146,63.682223564265634,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Foul Won,22,9,0.8293,2876.0,3,Box-to-box Midfielder,62.18699821757262,69.99729065978957,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Tackle,11,14,0.5633,2876.0,3,Box-to-box Midfielder,55.91244478621317,32.74977363234817,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Defensive reading,10,5,0.3912,2876.0,3,Box-to-box Midfielder,36.53360724027842,48.55494860954046,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Clearance,12,5,0.4538,2876.0,3,Box-to-box Midfielder,38.663972123728584,60.32770720327663,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Shot,12,6,0.4694,2876.0,3,Box-to-box Midfielder,45.351947409176695,50.02012152490239,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Aerial,11,9,0.485,2876.0,3,Box-to-box Midfielder,38.050646967132394,74.35479208148342,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Ball recovery,26,9,0.9545,2876.0,3,Box-to-box Midfielder,49.366941102341094,75.29279979458236,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,CMF,Turnover,16,5,0.5789,2876.0,3,Box-to-box Midfielder,41.76784705949944,70.58707001649086,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Pass,32,13,1.2048,2876.0,1,Advanced Playmaker,68.67581375041416,59.90031463001827,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Long ball,9,6,0.3755,2876.0,1,Advanced Playmaker,67.25953622436555,21.24885085937718,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Wide ball,10,5,0.3912,2876.0,1,Advanced Playmaker,39.41166893907714,60.91955804256559,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Through ball,35,19,1.3926,2876.0,1,Advanced Playmaker,42.819626599188,89.72651882615199,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Progressive pass,8,4,0.3129,2876.0,1,Advanced Playmaker,23.177954345053084,73.50044513805102,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Key pass,37,14,1.3769,2876.0,1,Advanced Playmaker,100.0,67.27576109635287,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Take on,31,11,1.1422,2876.0,1,Advanced Playmaker,52.41989712663253,39.21374872365381,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Foul commit,12,6,0.4694,2876.0,1,Advanced Playmaker,34.26942370345656,37.682003971183,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Foul Won,22,12,0.8762,2876.0,1,Advanced Playmaker,56.50461934180102,54.3893454040225,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Tackle,12,7,0.485,2876.0,1,Advanced Playmaker,39.30915090240849,67.77164427868935,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Defensive reading,8,1,0.266,2876.0,1,Advanced Playmaker,20.24697857960528,25.007953145031586,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Clearance,17,2,0.5633,2876.0,1,Advanced Playmaker,38.5911426844303,5.670366118756569,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Shot,16,11,0.6728,2876.0,1,Advanced Playmaker,77.988695500606,44.21637832417555,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Aerial,6,8,0.3129,2876.0,1,Advanced Playmaker,26.078609031418747,15.268098317261156,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Ball recovery,9,9,0.4225,2876.0,1,Advanced Playmaker,40.106336383879665,31.549966803420826,CMF,Box-to-box Midfielder,1.0
+Demo Club Mediterráneo,Player_009,900009,AMF,Turnover,17,9,0.6728,2876.0,1,Advanced Playmaker,55.25106335968701,65.79608718058503,CMF,Box-to-box Midfielder,1.0
+Demo Club Atlántico,Player_010,900010,WF,Pass,13,2,0.8406,1499.0,3,Winger,43.01248636189187,36.35322934191791,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Long ball,6,6,0.5404,1499.0,3,Winger,54.43195332945445,47.59836187681438,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Wide ball,28,16,2.1614,1499.0,3,Winger,46.32354250437845,50.49403717593556,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Through ball,7,6,0.6004,1499.0,3,Winger,38.641159241836625,0.0,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Progressive pass,23,17,1.8913,1499.0,3,Winger,41.08482584133485,53.839502600323776,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Key pass,18,9,1.3509,1499.0,3,Winger,82.60016019360754,66.78249144083779,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Take on,44,13,3.032,1499.0,3,Winger,88.08062611124782,71.90775325819067,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Foul commit,12,5,0.8706,1499.0,3,Winger,48.31517737361445,8.804978359622375,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Foul Won,20,10,1.501,1499.0,3,Winger,50.46156556996273,22.51292290455495,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Tackle,15,7,1.1107,1499.0,3,Winger,48.27111844471254,0.0,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Defensive reading,15,8,1.1408,1499.0,3,Winger,29.771554624644764,43.41291974852376,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Clearance,8,8,0.7205,1499.0,3,Winger,24.739260023227725,40.31136386627713,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Shot,30,14,2.2215,1499.0,3,Winger,92.27585882974397,86.8216736801839,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Aerial,14,9,1.1107,1499.0,3,Winger,64.9890767008675,31.52111461180866,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Ball recovery,12,2,0.7805,1499.0,3,Winger,16.363282665852378,12.201612573287715,WF,Winger,8.16
+Demo Club Atlántico,Player_010,900010,WF,Turnover,13,7,0.9907,1499.0,3,Winger,47.54943387653297,59.00712366462422,WF,Winger,8.16
+Demo Club Sur,Player_011,900011,CB,Pass,13,12,1.3124,1303.0,3,Sweeper,52.53915751575026,47.15402060059354,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Long ball,20,7,1.6232,1303.0,3,Sweeper,61.546511593065794,67.38601113715225,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Wide ball,10,4,0.8289,1303.0,3,Sweeper,39.854760593933435,57.651412747422704,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Through ball,6,7,0.6562,1303.0,3,Sweeper,34.462582857779935,29.93838344004837,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Progressive pass,12,5,1.0015,1303.0,3,Sweeper,70.02285971495711,28.63449452692975,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Key pass,12,4,0.967,1303.0,3,Sweeper,22.343457113001204,11.79580292548479,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Take on,11,4,0.8979,1303.0,3,Sweeper,27.511698679890884,31.100500163586588,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Foul commit,10,7,0.9325,1303.0,3,Sweeper,14.1763667337243,8.093442705726929,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Foul Won,13,3,1.0015,1303.0,3,Sweeper,49.52329514036251,47.61763064716311,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Tackle,33,15,2.7974,1303.0,3,Sweeper,91.34058359299351,65.50428429134452,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Defensive reading,40,17,3.35,1303.0,3,Sweeper,68.58056603067376,93.43055279244302,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Clearance,43,23,3.7644,1303.0,3,Sweeper,83.48372710366353,75.7118254981126,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Shot,10,1,0.7252,1303.0,3,Sweeper,31.435095769076312,38.650024399599864,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Aerial,39,6,2.901,1303.0,3,Sweeper,97.4140682379558,60.29566029038529,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Ball recovery,32,19,2.8665,1303.0,3,Sweeper,82.19767559056253,70.41785545678619,CB,Sweeper,7.5
+Demo Club Sur,Player_011,900011,CB,Turnover,13,8,1.1742,1303.0,3,Sweeper,41.20019141482589,46.94836604415863,CB,Sweeper,7.5
+Demo Club Interior,Player_012,900012,CB,Pass,20,13,1.0307,2314.0,3,Sweeper,53.98557782679312,46.10919177239585,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Long ball,12,9,0.6417,2314.0,3,Sweeper,46.699029991029896,27.58412624722591,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Wide ball,13,2,0.5445,2314.0,3,Sweeper,48.359446902395206,50.03371115792766,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Through ball,4,6,0.2723,2314.0,3,Sweeper,16.709268896408453,28.135255608031187,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Progressive pass,15,7,0.7195,2314.0,3,Sweeper,32.16294807153076,37.04577703288315,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Key pass,13,5,0.6029,2314.0,3,Sweeper,59.62815887699702,27.40004839249157,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Take on,19,4,0.8168,2314.0,3,Sweeper,71.93391616013761,63.458953996027475,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Foul commit,9,2,0.3889,2314.0,3,Sweeper,4.085593124940054,45.40708311275176,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Foul Won,9,6,0.4667,2314.0,3,Sweeper,49.38523560898502,36.91673977227827,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Tackle,29,18,1.478,2314.0,3,Sweeper,43.741387880093924,99.41975283170943,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Defensive reading,36,26,1.9058,2314.0,3,Sweeper,68.97205682625523,98.65934247574202,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Clearance,42,22,2.0614,2314.0,3,Sweeper,60.679147075417134,58.445583066671,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Shot,17,1,0.6806,2314.0,3,Sweeper,24.165199091202062,31.397814748972202,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Aerial,30,18,1.5169,2314.0,3,Sweeper,27.800784704001224,80.42021441909473,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Ball recovery,23,19,1.264,2314.0,3,Sweeper,57.1231591884268,38.344022660253856,CB,Sweeper,15.71
+Demo Club Interior,Player_012,900012,CB,Turnover,9,3,0.4084,2314.0,3,Sweeper,32.792707117137965,59.58941041933981,CB,Sweeper,15.71
+Demo Club Norte,Player_013,900013,CB,Pass,25,10,2.3979,1126.0,1,Stopper,53.72007529507931,64.71329675060659,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Long ball,23,6,2.0782,1126.0,1,Stopper,33.424494823230525,98.69184968593778,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Wide ball,14,8,1.4387,1126.0,1,Stopper,65.44734715961854,59.86408370073081,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Through ball,10,8,1.119,1126.0,1,Stopper,43.33805099130336,41.928531774362696,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Progressive pass,9,6,0.9591,1126.0,1,Stopper,22.917974592514067,9.917425358081815,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Key pass,11,10,1.2789,1126.0,1,Stopper,58.63046841913873,81.81393416519538,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Take on,20,2,1.6785,1126.0,1,Stopper,41.914736910451786,56.37415218565445,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Foul commit,6,8,0.7993,1126.0,1,Stopper,42.83550245209195,47.15011931914279,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Foul Won,6,6,0.7194,1126.0,1,Stopper,47.93279720663921,35.61675843506332,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Tackle,30,7,2.6776,1126.0,1,Stopper,82.82266814048336,42.347780647527756,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Defensive reading,42,20,4.1563,1126.0,1,Stopper,80.83562397574042,71.64957083361186,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Clearance,37,17,3.6368,1126.0,1,Stopper,89.62502089578547,42.711835873745564,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Shot,10,9,1.159,1126.0,1,Stopper,12.266927524812512,12.93711242422993,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Aerial,37,24,3.9165,1126.0,1,Stopper,64.8298407439299,70.02867390022752,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Ball recovery,37,11,3.397,1126.0,1,Stopper,62.789160519364984,58.48097347533244,CB,Stopper,1.89
+Demo Club Norte,Player_013,900013,CB,Turnover,13,11,1.4787,1126.0,1,Stopper,16.095905561410973,48.74303353585225,CB,Stopper,1.89
+Demo Club Capital,Player_014,900014,FB,Pass,21,10,1.0489,2231.0,1,Wing Back,48.293938730405024,15.212206366453607,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Long ball,14,8,0.7261,2231.0,1,Wing Back,2.9214790376035893,21.706274892985736,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Wide ball,35,10,1.6136,2231.0,1,Wing Back,80.82523344106694,66.25175528229217,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Through ball,13,6,0.6455,2231.0,1,Wing Back,39.31099759739561,58.374291715836804,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Progressive pass,41,22,2.0977,2231.0,1,Wing Back,61.02352532038764,58.1895901524123,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Key pass,16,1,0.6656,2231.0,1,Wing Back,26.02590912724444,15.313436130196273,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Take on,24,15,1.2707,2231.0,1,Wing Back,23.108124285774995,100.0,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Foul commit,9,5,0.4639,2231.0,1,Wing Back,25.774377040725216,65.54132495455373,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Foul Won,10,9,0.5849,2231.0,1,Wing Back,8.111101618428094,19.72357688725682,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Tackle,25,13,1.2707,2231.0,1,Wing Back,84.27160444815198,72.0959765727489,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Defensive reading,21,16,1.1699,2231.0,1,Wing Back,51.694704370294744,48.43423217960429,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Clearance,13,13,0.7866,2231.0,1,Wing Back,68.31895822795131,12.255496406629057,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Shot,13,7,0.6656,2231.0,1,Wing Back,68.47820972053191,51.0620280313829,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Aerial,9,8,0.5244,2231.0,1,Wing Back,27.898550965129218,49.17274912381293,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Ball recovery,23,8,1.0892,2231.0,1,Wing Back,42.82529627093068,53.84848167424671,FB,Wing Back,2.54
+Demo Club Capital,Player_014,900014,FB,Turnover,7,3,0.3429,2231.0,1,Wing Back,74.04178397714011,90.08330605210037,FB,Wing Back,2.54
+Demo Club Mediterráneo,Player_015,900015,CMF,Pass,47,20,3.4639,1481.0,1,Playmaker,100.0,82.25820001368888,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Long ball,19,5,1.3065,1481.0,1,Playmaker,52.37423564328915,33.73437091028641,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Wide ball,18,8,1.3369,1481.0,1,Playmaker,65.69061606930103,22.730329479614213,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Through ball,19,11,1.4889,1481.0,1,Playmaker,36.37012986248549,97.39248018619132,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Progressive pass,33,20,2.6131,1481.0,1,Playmaker,79.14500665167519,64.9212843971706,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Key pass,26,16,2.0662,1481.0,1,Playmaker,44.262648203820845,57.87771527412606,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Take on,11,8,0.9115,1481.0,1,Playmaker,0.0,48.99155386646232,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Foul commit,12,3,0.8204,1481.0,1,Playmaker,23.552403517539606,34.50483089870268,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Foul Won,18,8,1.3369,1481.0,1,Playmaker,56.492434185343306,59.40880503219562,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Tackle,12,6,0.9115,1481.0,1,Playmaker,19.70473288290714,26.594157412288922,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Defensive reading,15,2,0.9723,1481.0,1,Playmaker,30.89899778063365,48.563455738177055,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Clearance,15,4,1.0331,1481.0,1,Playmaker,51.54864682542015,40.58986980002351,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Shot,8,11,0.8204,1481.0,1,Playmaker,53.91763458646534,57.95003014936313,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Aerial,10,8,0.8508,1481.0,1,Playmaker,50.49192883233792,25.36700660861763,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Ball recovery,26,13,1.975,1481.0,1,Playmaker,55.211720147706075,62.33882734211217,CMF,Playmaker,2.66
+Demo Club Mediterráneo,Player_015,900015,CMF,Turnover,11,6,0.8508,1481.0,1,Playmaker,4.797107191774074,33.942880839830224,CMF,Playmaker,2.66
+Demo Club Atlántico,Player_016,900016,CF,Pass,19,11,3.3409,660.0,3,Target Man,82.7875382821001,66.98122637451554,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Long ball,8,5,1.4318,660.0,3,Target Man,13.508429853421124,23.244738009697823,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Wide ball,9,11,1.9773,660.0,3,Target Man,21.816673529144357,74.31457773313406,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Through ball,12,4,1.9091,660.0,3,Target Man,28.68322320303089,22.180802527677905,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Progressive pass,8,0,1.0909,660.0,3,Target Man,38.67484695373847,64.25477732359502,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Key pass,8,2,1.2273,660.0,3,Target Man,51.338409168225176,52.802041395670855,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Take on,26,13,4.4318,660.0,3,Target Man,60.42006821242454,57.24529034830955,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Foul commit,11,7,1.9773,660.0,3,Target Man,28.842561097697192,44.57355289625155,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Foul Won,33,10,5.1818,660.0,3,Target Man,64.69411130227839,61.73255830967658,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Tackle,14,4,2.1818,660.0,3,Target Man,31.90838586104072,33.37536191324248,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Defensive reading,12,8,2.1818,660.0,3,Target Man,37.04740922647666,31.884054088802955,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Clearance,7,7,1.4318,660.0,3,Target Man,50.034047032678416,54.3871740593064,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Shot,43,20,7.2273,660.0,3,Target Man,89.67015627275308,64.96610829222922,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Aerial,21,14,3.8182,660.0,3,Target Man,61.29680370457248,70.27677276770942,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Ball recovery,13,6,2.1818,660.0,3,Target Man,52.597694166477424,62.24753910737817,CF,Target Man,34.09
+Demo Club Atlántico,Player_016,900016,CF,Turnover,26,7,4.0227,660.0,3,Target Man,63.245459909248844,96.89009151280618,CF,Target Man,34.09
+Demo Club Sur,Player_017,900017,FB,Pass,26,10,1.8801,1484.0,2,Inverted Wing Back,34.89174743884935,66.91105681608855,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Long ball,9,3,0.6368,1484.0,2,Inverted Wing Back,48.38294490132337,44.584464364708964,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Wide ball,47,12,3.2143,1484.0,2,Inverted Wing Back,97.64932099146719,82.8458659665881,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Through ball,7,3,0.5155,1484.0,2,Inverted Wing Back,33.31580086857992,20.926501692417148,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Progressive pass,35,11,2.4562,1484.0,2,Inverted Wing Back,43.96871038239584,62.439760549091716,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Key pass,10,9,0.8794,1484.0,2,Inverted Wing Back,31.81497050757382,24.969291673671346,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Take on,25,10,1.8194,1484.0,2,Inverted Wing Back,87.02648295598391,60.33446101519959,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Foul commit,9,6,0.7278,1484.0,2,Inverted Wing Back,54.97642147992603,36.59576755130667,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Foul Won,13,7,1.0007,1484.0,2,Inverted Wing Back,23.96336543077041,27.59790750198899,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Tackle,33,10,2.3046,1484.0,2,Inverted Wing Back,70.15954154197087,61.667053646998966,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Defensive reading,25,7,1.7284,1484.0,2,Inverted Wing Back,45.4636810046735,51.05880581251655,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Clearance,11,5,0.8187,1484.0,2,Inverted Wing Back,49.46722833433165,42.044065257563624,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Shot,15,11,1.2433,1484.0,2,Inverted Wing Back,51.01768954438404,44.448359286506225,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Aerial,8,8,0.7278,1484.0,2,Inverted Wing Back,14.841951896922893,49.84881001767295,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Ball recovery,22,8,1.5768,1484.0,2,Inverted Wing Back,72.9344130666553,54.557858265903064,FB,Inverted Wing Back,13.51
+Demo Club Sur,Player_017,900017,FB,Turnover,9,5,0.6974,1484.0,2,Inverted Wing Back,52.525749176150455,35.73713536720332,FB,Inverted Wing Back,13.51
+Demo Club Interior,Player_018,900018,CMF,Pass,58,23,8.1023,772.0,3,Box-to-box Midfielder,85.7862396004736,46.41507921052014,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Long ball,14,7,2.0402,772.0,3,Box-to-box Midfielder,64.91295575844691,34.20609197039665,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Wide ball,7,8,1.2824,772.0,3,Box-to-box Midfielder,58.594824640614405,51.29237223260369,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Through ball,26,13,3.7889,772.0,3,Box-to-box Midfielder,70.0176999070152,46.35054908684486,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Progressive pass,34,12,4.6632,772.0,3,Box-to-box Midfielder,61.92334897139877,30.658696729901443,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Key pass,20,15,3.206,772.0,3,Box-to-box Midfielder,59.219881840324895,89.24067579849341,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Take on,11,5,1.5738,772.0,3,Box-to-box Midfielder,22.563303903919778,40.014397654040096,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Foul commit,8,5,1.2241,772.0,3,Box-to-box Midfielder,57.87874226434827,26.313727379223625,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Foul Won,19,5,2.5065,772.0,3,Box-to-box Midfielder,53.22994752429726,80.68836747054044,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Tackle,12,8,1.8653,772.0,3,Box-to-box Midfielder,17.050545767241093,27.549028710681107,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Defensive reading,5,7,0.9909,772.0,3,Box-to-box Midfielder,70.73168657587657,12.755700076126072,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Clearance,9,9,1.5738,772.0,3,Box-to-box Midfielder,70.58381095010222,50.262960265578435,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Shot,11,4,1.5155,772.0,3,Box-to-box Midfielder,49.8574862475525,57.37539863867524,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Aerial,7,2,0.9326,772.0,3,Box-to-box Midfielder,37.522515388537585,23.626031555903058,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Ball recovery,20,12,3.0311,772.0,3,Box-to-box Midfielder,73.9939627515941,90.78452296181553,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,CMF,Turnover,6,3,0.8744,772.0,3,Box-to-box Midfielder,27.69172950864308,29.751947538044263,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Pass,23,13,3.4391,772.0,2,Second Striker,48.11500037149149,58.55620589444383,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Long ball,11,5,1.5738,772.0,2,Second Striker,69.17181257657852,33.181029763329335,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Wide ball,8,11,1.5738,772.0,2,Second Striker,56.1444359179112,37.766642006155124,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Through ball,37,11,4.9547,772.0,2,Second Striker,85.4380353621181,74.28830141241532,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Progressive pass,15,7,2.1567,772.0,2,Second Striker,69.76551758702985,40.399519035327394,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Key pass,41,14,5.5959,772.0,2,Second Striker,91.3419192693084,39.52516305003881,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Take on,30,13,4.2552,772.0,2,Second Striker,44.579329387796406,44.43946706937438,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Foul commit,9,8,1.5155,772.0,2,Second Striker,34.71786631828632,78.85016836503223,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Foul Won,26,12,3.7306,772.0,2,Second Striker,51.40883973487496,51.228144029547195,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Tackle,5,6,0.9326,772.0,2,Second Striker,44.80377143995696,43.53505998146153,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Defensive reading,10,1,1.2241,772.0,2,Second Striker,13.865489492371676,54.75951612807067,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Clearance,14,8,2.0984,772.0,2,Second Striker,48.521119246406286,67.39193072013649,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Shot,36,18,5.2461,772.0,2,Second Striker,54.88318310600698,53.0158452176355,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Aerial,14,6,1.9819,772.0,2,Second Striker,30.43622240635959,33.674521227851244,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Ball recovery,16,6,2.215,772.0,2,Second Striker,28.4194849686997,34.34615747626363,CMF,Box-to-box Midfielder,8.32
+Demo Club Interior,Player_018,900018,AMF,Turnover,9,6,1.399,772.0,2,Second Striker,53.29774085512692,41.14485083397475,CMF,Box-to-box Midfielder,8.32
+Demo Club Norte,Player_019,900019,WF,Pass,11,4,0.7612,1537.0,1,Inside Forward,23.0340605346666,55.75211174847491,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Long ball,17,9,1.2589,1537.0,1,Inside Forward,17.575638279589246,47.487514441635916,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Wide ball,35,13,2.4301,1537.0,1,Inside Forward,79.31448832625442,40.22961839375909,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Through ball,9,5,0.6734,1537.0,1,Inside Forward,27.3853468019563,17.071034741966336,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Progressive pass,32,17,2.3715,1537.0,1,Inside Forward,100.0,85.78193240552204,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Key pass,25,9,1.7274,1537.0,1,Inside Forward,49.001205170452295,8.853516186356615,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Take on,24,26,2.1666,1537.0,1,Inside Forward,76.58486540315991,100.0,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Foul commit,14,2,0.8783,1537.0,1,Inside Forward,28.133227237647407,31.309459450140423,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Foul Won,14,12,1.1711,1537.0,1,Inside Forward,34.30518339534861,51.76117872219587,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Tackle,13,7,0.9662,1537.0,1,Inside Forward,15.317702887996205,45.87280969072551,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Defensive reading,16,4,1.054,1537.0,1,Inside Forward,19.01618956084346,23.81352467396464,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Clearance,14,3,0.9076,1537.0,1,Inside Forward,54.03571685113279,31.4754544318139,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Shot,33,18,2.4593,1537.0,1,Inside Forward,56.06810608632461,39.17272066290299,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Aerial,10,7,0.7905,1537.0,1,Inside Forward,23.385692408011217,22.13388315836002,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Ball recovery,13,5,0.9076,1537.0,1,Inside Forward,66.977888508956,7.45860847223625,WF,Inside Forward,13.48
+Demo Club Norte,Player_019,900019,WF,Turnover,14,4,0.9369,1537.0,1,Inside Forward,32.73758479721202,57.47293751148702,WF,Inside Forward,13.48
+Demo Club Capital,Player_020,900020,FB,Pass,22,15,0.8381,3168.0,3,Full Back,72.97028223135538,69.70175883506563,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Long ball,13,8,0.483,3168.0,3,Full Back,23.85485256431451,42.07950966868815,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Wide ball,35,18,1.25,3168.0,3,Full Back,67.53923893410739,75.03774654025985,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Through ball,15,7,0.5256,3168.0,3,Full Back,5.439453416775471,27.951876513851268,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Progressive pass,31,20,1.1648,3168.0,3,Full Back,92.69345995090964,40.38128968843348,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Key pass,11,5,0.3835,3168.0,3,Full Back,48.360518560147185,45.483814730620026,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Take on,28,10,0.9375,3168.0,3,Full Back,49.723818982937225,73.28186822894918,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Foul commit,12,7,0.4403,3168.0,3,Full Back,45.78208888469744,22.263441451067674,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Foul Won,10,4,0.3409,3168.0,3,Full Back,45.77666763638716,25.320647617670744,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Tackle,24,8,0.7955,3168.0,3,Full Back,65.94050078820244,73.4684566195286,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Defensive reading,19,12,0.7102,3168.0,3,Full Back,53.84099890585767,24.70463961559287,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Clearance,9,7,0.3551,3168.0,3,Full Back,31.201193966891942,75.3738966399601,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Shot,21,10,0.7386,3168.0,3,Full Back,56.8799094825252,72.1224969812901,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Aerial,11,9,0.4403,3168.0,3,Full Back,34.16017613258382,56.6805028371152,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Ball recovery,36,12,1.1932,3168.0,3,Full Back,27.200796537504758,45.18675899078015,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,FB,Turnover,17,4,0.5398,3168.0,3,Full Back,51.03045456908329,50.6799417723862,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Pass,33,14,1.1364,3168.0,2,Ball Winning Midfielder,73.62993117893181,67.09600040420207,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Long ball,19,5,0.6108,3168.0,2,Ball Winning Midfielder,57.02030349558104,63.47319057128091,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Wide ball,16,7,0.554,3168.0,2,Ball Winning Midfielder,48.53298710985308,53.216218846782105,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Through ball,7,5,0.2699,3168.0,2,Ball Winning Midfielder,53.20285563121509,30.025583063218967,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Progressive pass,18,18,0.767,3168.0,2,Ball Winning Midfielder,93.717715095638,34.452844453187176,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Key pass,4,4,0.1705,3168.0,2,Ball Winning Midfielder,35.90532388759208,34.937112076879245,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Take on,11,5,0.3835,3168.0,2,Ball Winning Midfielder,40.38317443542153,40.890099526913275,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Foul commit,20,7,0.6676,3168.0,2,Ball Winning Midfielder,31.351311217969332,62.67036455970077,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Foul Won,8,5,0.2983,3168.0,2,Ball Winning Midfielder,28.821092048791627,48.341120991219924,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Tackle,32,17,1.1506,3168.0,2,Ball Winning Midfielder,52.52764186806527,74.53090891640105,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Defensive reading,36,12,1.1932,3168.0,2,Ball Winning Midfielder,69.21101131309943,36.76974569722147,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Clearance,7,9,0.3267,3168.0,2,Ball Winning Midfielder,45.50253983057366,27.6274916715698,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Shot,11,5,0.3835,3168.0,2,Ball Winning Midfielder,3.137491938205784,12.457979697161754,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Aerial,19,6,0.625,3168.0,2,Ball Winning Midfielder,51.16671914758301,54.484936158330434,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Ball recovery,29,31,1.2642,3168.0,2,Ball Winning Midfielder,100.0,47.19558752120901,FB,Full Back,25.25
+Demo Club Capital,Player_020,900020,DMF,Turnover,14,8,0.5114,3168.0,2,Ball Winning Midfielder,40.535657561795595,41.18721930891578,FB,Full Back,25.25
+Demo Club Mediterráneo,Player_021,900021,CB,Pass,26,9,1.2449,2205.0,2,Ball Playing Defender,58.563420495571506,29.670463664816907,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Long ball,17,8,0.8571,2205.0,2,Ball Playing Defender,51.57711993009853,38.92402642001921,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Wide ball,15,9,0.7959,2205.0,2,Ball Playing Defender,47.52319573118604,58.29013939664027,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Through ball,9,5,0.4694,2205.0,2,Ball Playing Defender,38.72900163199175,66.93586410903987,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Progressive pass,8,4,0.4082,2205.0,2,Ball Playing Defender,46.35325885664652,7.968202374960256,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Key pass,20,3,0.8776,2205.0,2,Ball Playing Defender,36.33627264772362,48.042973463218196,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Take on,15,6,0.7347,2205.0,2,Ball Playing Defender,53.58284192448465,59.79178958804207,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Foul commit,8,4,0.4082,2205.0,2,Ball Playing Defender,66.49553051671376,45.01139202934254,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Foul Won,12,4,0.5714,2205.0,2,Ball Playing Defender,7.663760294169073,54.48232860476938,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Tackle,28,18,1.5102,2205.0,2,Ball Playing Defender,88.31195973558455,61.50300849615984,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Defensive reading,30,17,1.5714,2205.0,2,Ball Playing Defender,83.73665159932148,64.67537725805323,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Clearance,37,22,1.9592,2205.0,2,Ball Playing Defender,96.2062027769606,97.63693439004409,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Shot,7,6,0.4082,2205.0,2,Ball Playing Defender,38.03592171985772,17.519686672458047,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Aerial,34,18,1.7551,2205.0,2,Ball Playing Defender,77.05365924827184,66.33393132033589,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Ball recovery,28,10,1.3469,2205.0,2,Ball Playing Defender,56.842817938076024,54.14164996632782,CB,Ball Playing Defender,2.46
+Demo Club Mediterráneo,Player_021,900021,CB,Turnover,8,8,0.4898,2205.0,2,Ball Playing Defender,19.63776634514872,36.91196600764567,CB,Ball Playing Defender,2.46
+Demo Club Atlántico,Player_022,900022,FB,Pass,27,12,3.769,788.0,2,Inverted Wing Back,42.63454395711155,53.99938379962788,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Long ball,5,6,0.9137,788.0,2,Inverted Wing Back,18.273555967779394,64.40341452451256,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Wide ball,35,18,5.0254,788.0,2,Inverted Wing Back,87.61634442005044,73.73576680471051,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Through ball,16,6,2.1701,788.0,2,Inverted Wing Back,53.926294641088134,27.76033987047729,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Progressive pass,31,18,4.5685,788.0,2,Inverted Wing Back,87.66038438085201,61.55960976584223,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Key pass,12,9,1.8845,788.0,2,Inverted Wing Back,9.517494855271053,35.02509208904503,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Take on,19,12,2.8553,788.0,2,Inverted Wing Back,35.55074773454416,52.797174815964276,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Foul commit,12,9,1.8845,788.0,2,Inverted Wing Back,36.30437773537641,25.07558251556194,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Foul Won,16,4,2.0558,788.0,2,Inverted Wing Back,42.33542289451639,59.792509947886636,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Tackle,23,12,3.3122,788.0,2,Inverted Wing Back,34.300359879851925,60.333568178853156,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Defensive reading,21,10,2.9695,788.0,2,Inverted Wing Back,32.76465774586636,56.96087221508956,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Clearance,9,9,1.5419,788.0,2,Inverted Wing Back,58.3689426339627,83.23180802351604,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Shot,15,1,1.7703,788.0,2,Inverted Wing Back,29.171071035307797,33.32757520236512,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Aerial,10,6,1.4848,788.0,2,Inverted Wing Back,56.81574909078877,29.156620074631363,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Ball recovery,23,13,3.3693,788.0,2,Inverted Wing Back,94.45635546365025,63.38644183916506,FB,Inverted Wing Back,1.39
+Demo Club Atlántico,Player_022,900022,FB,Turnover,10,3,1.3135,788.0,2,Inverted Wing Back,49.112031791956916,40.79730365681528,FB,Inverted Wing Back,1.39
+Demo Club Sur,Player_023,900023,AMF,Pass,23,18,1.7778,1620.0,1,Advanced Playmaker,73.00044506516282,88.71049295674158,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Long ball,10,6,0.7222,1620.0,1,Advanced Playmaker,47.92084874037699,24.388659179679095,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Wide ball,10,6,0.7222,1620.0,1,Advanced Playmaker,22.481119167049037,48.64400013789735,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Through ball,32,18,2.2778,1620.0,1,Advanced Playmaker,77.03437155607871,100.0,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Progressive pass,8,11,0.75,1620.0,1,Advanced Playmaker,58.51784735763154,27.07648100529637,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Key pass,48,22,3.2778,1620.0,1,Advanced Playmaker,73.97785658442574,60.9355092276503,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Take on,25,7,1.5833,1620.0,1,Advanced Playmaker,88.64093435186254,50.26702598342735,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Foul commit,13,5,0.8611,1620.0,1,Advanced Playmaker,18.921974534807593,44.85196719720357,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Foul Won,28,15,1.9722,1620.0,1,Advanced Playmaker,20.654597321550057,54.200951940902435,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Tackle,13,6,0.8889,1620.0,1,Advanced Playmaker,27.6529688673385,38.60634242789345,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Defensive reading,18,4,1.1111,1620.0,1,Advanced Playmaker,38.2840025454904,55.38196287706055,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Clearance,17,5,1.0833,1620.0,1,Advanced Playmaker,40.74019544887857,45.84734506379952,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Shot,16,14,1.2778,1620.0,1,Advanced Playmaker,28.075103813697766,49.677057776951095,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Aerial,12,5,0.8056,1620.0,1,Advanced Playmaker,19.79558271006572,43.221068558332085,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Ball recovery,6,2,0.3889,1620.0,1,Advanced Playmaker,23.796191705994747,52.71754417210917,AMF,Advanced Playmaker,2.69
+Demo Club Sur,Player_023,900023,AMF,Turnover,9,10,0.7778,1620.0,1,Advanced Playmaker,32.7592577993622,66.23808266109836,AMF,Advanced Playmaker,2.69
+Demo Club Interior,Player_024,900024,FB,Pass,18,10,0.8357,2477.0,3,Full Back,53.89750667745059,51.881295479631426,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Long ball,12,5,0.5268,2477.0,3,Full Back,24.83127859509903,31.37692861966803,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Wide ball,46,20,2.0347,2477.0,3,Full Back,57.77718366490777,71.39782816408605,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Through ball,13,5,0.5632,2477.0,3,Full Back,64.04798366832512,52.65029816999966,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Progressive pass,43,18,1.8894,2477.0,3,Full Back,53.92360569155281,34.972347206913135,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Key pass,9,7,0.4542,2477.0,3,Full Back,30.26872721389745,42.34703752469217,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Take on,27,12,1.199,2477.0,3,Full Back,70.22704214484686,36.32889903685391,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Foul commit,9,4,0.3997,2477.0,3,Full Back,27.061430051079174,44.04351504456924,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Foul Won,10,3,0.4178,2477.0,3,Full Back,15.14508564941979,61.601194038945245,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Tackle,20,14,0.981,2477.0,3,Full Back,75.18552043131521,72.6764804143483,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Defensive reading,20,9,0.8902,2477.0,3,Full Back,60.258138978863514,68.9445993623454,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Clearance,15,10,0.7267,2477.0,3,Full Back,42.614003690255586,56.94984542438946,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Shot,8,6,0.3997,2477.0,3,Full Back,28.212562679160985,59.023101648011675,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Aerial,11,6,0.5087,2477.0,3,Full Back,55.222963843854004,45.12457402065274,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Ball recovery,29,10,1.2354,2477.0,3,Full Back,62.93377330858125,60.63670752944774,FB,Full Back,1.25
+Demo Club Interior,Player_024,900024,FB,Turnover,10,7,0.4905,2477.0,3,Full Back,24.919870081360514,19.6641325251237,FB,Full Back,1.25
+Demo Club Norte,Player_025,900025,CF,Pass,21,9,2.5248,909.0,3,Target Man,57.788468625397556,12.37646860525782,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Long ball,11,8,1.4851,909.0,3,Target Man,16.286595859992666,79.49919870529197,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Wide ball,7,5,0.9406,909.0,3,Target Man,73.18953763034729,54.329347222571954,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Through ball,12,5,1.4356,909.0,3,Target Man,27.78630758156464,91.58618047978786,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Progressive pass,9,5,1.1386,909.0,3,Target Man,60.272579695611384,31.789335123491234,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Key pass,11,6,1.3861,909.0,3,Target Man,44.39043318479341,35.63880494072779,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Take on,16,14,2.2772,909.0,3,Target Man,72.33225411106127,49.072322705809825,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Foul commit,12,7,1.5347,909.0,3,Target Man,12.379524812867032,16.59115714196719,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Foul Won,32,9,3.6139,909.0,3,Target Man,59.70709154909948,59.06085302917385,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Tackle,13,10,1.7822,909.0,3,Target Man,29.74756809857027,36.88000546094726,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Defensive reading,8,2,0.8911,909.0,3,Target Man,44.7137128920318,23.518813619750528,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Clearance,14,9,1.8317,909.0,3,Target Man,38.21457568715855,36.0994206683264,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Shot,43,18,5.1485,909.0,3,Target Man,100.0,60.004162699340995,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Aerial,28,11,3.3168,909.0,3,Target Man,72.48527966760508,85.04780748459751,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Ball recovery,16,5,1.8317,909.0,3,Target Man,17.092768500085423,63.241636107263226,CF,Target Man,1.57
+Demo Club Norte,Player_025,900025,CF,Turnover,29,12,3.4653,909.0,3,Target Man,22.851050748411964,43.96934111888655,CF,Target Man,1.57
+Demo Club Capital,Player_026,900026,CB,Pass,26,15,2.0154,1496.0,1,Stopper,58.613970458989584,36.36767418015951,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Long ball,17,8,1.2634,1496.0,1,Stopper,38.16709247661757,44.79662440882862,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Wide ball,18,4,1.2032,1496.0,1,Stopper,25.773464018379475,78.16117062694467,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Through ball,15,7,1.113,1496.0,1,Stopper,35.24830265395508,41.22133306318272,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Progressive pass,10,4,0.7219,1496.0,1,Stopper,20.793055105650694,41.26157431691024,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Key pass,15,7,1.113,1496.0,1,Stopper,51.217923909064645,49.38577805330593,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Take on,9,5,0.6918,1496.0,1,Stopper,60.7826155590987,42.96147839399842,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Foul commit,11,3,0.752,1496.0,1,Stopper,41.70261690675206,43.57506189658506,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Foul Won,10,8,0.8422,1496.0,1,Stopper,48.88648580573842,54.22497885865812,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Tackle,30,24,2.5267,1496.0,1,Stopper,71.20439456643773,45.71422637039341,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Defensive reading,33,17,2.4967,1496.0,1,Stopper,75.58979217901296,74.26333177262521,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Clearance,37,20,2.8275,1496.0,1,Stopper,77.60267154864819,75.60136750756871,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Shot,8,7,0.6918,1496.0,1,Stopper,39.555003204071625,72.12729121847616,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Aerial,47,16,3.3088,1496.0,1,Stopper,69.2808456079469,63.969278999346244,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Ball recovery,29,12,2.1056,1496.0,1,Stopper,55.816447014938305,64.34579076769101,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,CB,Turnover,13,7,0.9926,1496.0,1,Stopper,48.85029306516431,74.01391479885456,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Pass,31,18,2.4064,1496.0,1,Deep Lying Playmaker,100.0,74.36802880644726,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Long ball,21,11,1.5943,1496.0,1,Deep Lying Playmaker,29.90326767210582,76.66467229010804,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Wide ball,14,6,1.0227,1496.0,1,Deep Lying Playmaker,6.109338575254839,48.31549403903303,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Through ball,3,9,0.4512,1496.0,1,Deep Lying Playmaker,72.7766954807041,21.894084046643403,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Progressive pass,33,11,2.3162,1496.0,1,Deep Lying Playmaker,61.47713742408412,62.35531398493125,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Key pass,13,5,0.9325,1496.0,1,Deep Lying Playmaker,14.070235833150878,59.42987571584484,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Take on,15,6,1.0829,1496.0,1,Deep Lying Playmaker,22.35603058131288,78.20011245226384,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Foul commit,13,7,0.9926,1496.0,1,Deep Lying Playmaker,51.6677244938164,37.39667445297488,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Foul Won,13,4,0.9024,1496.0,1,Deep Lying Playmaker,72.09841911171549,31.62616984549424,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Tackle,29,13,2.1357,1496.0,1,Deep Lying Playmaker,62.57020561919631,59.11708571111203,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Defensive reading,28,9,1.9552,1496.0,1,Deep Lying Playmaker,57.83388402957314,36.039369911522414,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Clearance,11,0,0.6618,1496.0,1,Deep Lying Playmaker,43.84598325316091,59.033765188438494,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Shot,14,9,1.113,1496.0,1,Deep Lying Playmaker,54.6247378784613,13.145871049869328,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Aerial,9,9,0.8122,1496.0,1,Deep Lying Playmaker,33.79429498682415,52.567329515074256,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Ball recovery,38,22,2.9479,1496.0,1,Deep Lying Playmaker,63.674530628451734,61.19351529039234,CB,Stopper,9.83
+Demo Club Capital,Player_026,900026,DMF,Turnover,9,5,0.6918,1496.0,1,Deep Lying Playmaker,4.763708951046141,53.76431743962641,CB,Stopper,9.83
+Demo Club Mediterráneo,Player_027,900027,CF,Pass,20,3,0.7454,2596.0,3,Target Man,57.44217707259332,33.869172525902385,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Long ball,12,7,0.5374,2596.0,3,Target Man,21.08942141147424,23.60137940678809,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Wide ball,12,3,0.468,2596.0,3,Target Man,42.13629768905656,56.118386805519165,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Through ball,17,4,0.6587,2596.0,3,Target Man,6.1278579094047245,19.04732617311761,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Progressive pass,13,6,0.5547,2596.0,3,Target Man,23.175402973189755,34.31356843249584,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Key pass,12,5,0.5027,2596.0,3,Target Man,51.03011442703679,45.8361762953451,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Take on,17,21,0.9534,2596.0,3,Target Man,50.67695936035088,39.51288488445029,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Foul commit,13,8,0.5894,2596.0,3,Target Man,72.71630499080723,43.62247389986865,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Foul Won,21,12,0.9361,2596.0,3,Target Man,73.1924539431605,48.17763521048701,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Tackle,11,7,0.5027,2596.0,3,Target Man,44.48412011688763,47.52604481294919,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Defensive reading,14,8,0.624,2596.0,3,Target Man,85.23998551066023,48.86704257783451,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Clearance,6,7,0.3294,2596.0,3,Target Man,54.068865283048304,51.55960203258315,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Shot,50,18,2.0455,2596.0,3,Target Man,74.01623625120874,100.0,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Aerial,30,16,1.3174,2596.0,3,Target Man,60.044933205813315,69.44107342046848,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Ball recovery,9,5,0.3987,2596.0,3,Target Man,29.93840546558141,42.14355485362032,CF,Target Man,16.47
+Demo Club Mediterráneo,Player_027,900027,CF,Turnover,29,7,1.1267,2596.0,3,Target Man,88.796844565134,69.24758754693289,CF,Target Man,16.47
+Demo Club Atlántico,Player_028,900028,CB,Pass,16,11,2.6875,720.0,1,Stopper,61.74538452456409,69.94390400886549,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Long ball,16,10,2.625,720.0,1,Stopper,39.90125507417624,51.63090352901626,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Wide ball,11,5,1.6875,720.0,1,Stopper,35.21225873753859,55.10389812666863,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Through ball,9,9,1.6875,720.0,1,Stopper,57.62059750613611,29.76797897492062,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Progressive pass,7,9,1.4375,720.0,1,Stopper,36.24204190860426,28.26640021820056,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Key pass,13,7,2.0625,720.0,1,Stopper,87.41327803702842,34.387150324628905,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Take on,16,7,2.4375,720.0,1,Stopper,80.61749416977565,63.237587312868726,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Foul commit,9,10,1.75,720.0,1,Stopper,68.91589994572153,42.15536989099036,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Foul Won,11,8,1.875,720.0,1,Stopper,22.71309730751865,37.947379514915774,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Tackle,30,15,4.6875,720.0,1,Stopper,45.603810432325325,73.21319205272934,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Defensive reading,49,14,7.0,720.0,1,Stopper,77.85756094218813,47.84031132789989,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Clearance,46,21,7.0625,720.0,1,Stopper,68.67758546304422,76.68662018358764,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Shot,13,5,1.9375,720.0,1,Stopper,17.20829262711026,44.48956186864558,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Aerial,36,20,5.75,720.0,1,Stopper,66.83942424241395,63.424486291796995,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Ball recovery,29,18,4.75,720.0,1,Stopper,72.78574082812204,74.9919232032864,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,CB,Turnover,17,4,2.375,720.0,1,Stopper,37.60719665037732,38.92187962868333,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Pass,29,18,4.75,720.0,3,Full Back,73.07001180022624,72.70221478482196,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Long ball,11,4,1.625,720.0,3,Full Back,7.967068070816325,57.13931542113063,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Wide ball,49,10,6.75,720.0,3,Full Back,74.49426679655997,81.37322040458938,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Through ball,7,4,1.125,720.0,3,Full Back,55.37412354550665,29.957533810846073,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Progressive pass,35,22,5.75,720.0,3,Full Back,53.26156550507922,100.0,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Key pass,8,6,1.375,720.0,3,Full Back,40.93874660276277,35.4863605754713,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Take on,24,15,3.9375,720.0,3,Full Back,52.03368309497721,29.446143490883372,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Foul commit,12,7,1.9375,720.0,3,Full Back,78.5242804984535,46.900545578918454,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Foul Won,10,6,1.625,720.0,3,Full Back,22.760332996218704,48.766851443505175,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Tackle,22,11,3.4375,720.0,3,Full Back,50.8910311031712,94.6762154309795,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Defensive reading,15,11,2.5625,720.0,3,Full Back,80.78169400398929,27.51118845587216,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Clearance,8,6,1.375,720.0,3,Full Back,46.676018324246456,23.857512016626593,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Shot,16,5,2.3125,720.0,3,Full Back,54.598283321815856,69.40459185655718,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Aerial,6,7,1.1875,720.0,3,Full Back,45.82596399945986,27.96300874795973,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Ball recovery,30,10,4.375,720.0,3,Full Back,46.357738064511786,59.36456727990535,CB,Stopper,4.45
+Demo Club Atlántico,Player_028,900028,FB,Turnover,10,8,1.75,720.0,3,Full Back,63.75735377414224,38.81856843273797,CB,Stopper,4.45
+Demo Club Sur,Player_029,900029,CF,Pass,19,10,1.1829,1826.0,1,Poacher,70.37213246512027,64.58655819469288,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Long ball,16,4,0.8872,1826.0,1,Poacher,16.228127098657072,52.75941246002513,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Wide ball,10,6,0.6407,1826.0,1,Poacher,44.82339472949581,36.05547409988592,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Through ball,13,8,0.8379,1826.0,1,Poacher,46.80215054325656,61.42886536268007,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Progressive pass,12,4,0.69,1826.0,1,Poacher,54.8418428267691,52.2810963205772,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Key pass,16,7,0.9611,1826.0,1,Poacher,17.709115569535353,28.553784004803855,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Take on,20,13,1.3061,1826.0,1,Poacher,60.38420118471,40.63703860095769,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Foul commit,7,10,0.5915,1826.0,1,Poacher,19.913289877390543,41.02749470071641,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Foul Won,38,11,2.144,1826.0,1,Poacher,51.8264191987482,72.26416060817989,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Tackle,17,8,1.035,1826.0,1,Poacher,25.963574966381817,21.30607050126158,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Defensive reading,10,5,0.6161,1826.0,1,Poacher,42.92215361328102,7.337158495957155,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Clearance,15,6,0.8872,1826.0,1,Poacher,21.27078176542831,41.4300654143402,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Shot,51,18,2.9573,1826.0,1,Poacher,80.07151331030332,86.41059465305244,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Aerial,20,18,1.4294,1826.0,1,Poacher,81.22720730598952,100.0,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Ball recovery,6,1,0.3204,1826.0,1,Poacher,40.00691230907106,29.871255296846456,CF,Poacher,2.73
+Demo Club Sur,Player_029,900029,CF,Turnover,24,13,1.5033,1826.0,1,Poacher,95.0560027774714,40.04392942528128,CF,Poacher,2.73
+Demo Club Interior,Player_030,900030,CB,Pass,27,12,3.7218,798.0,3,Sweeper,87.11314386011674,21.38045611193359,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Long ball,12,13,2.0865,798.0,3,Sweeper,33.430691088198884,1.271351603159772,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Wide ball,16,8,2.2556,798.0,3,Sweeper,41.680601133302616,10.966663895972381,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Through ball,11,5,1.5226,798.0,3,Sweeper,18.411821065138636,53.35620107746545,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Progressive pass,4,8,0.9023,798.0,3,Sweeper,41.63167815872584,45.648171907364954,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Key pass,11,3,1.4098,798.0,3,Sweeper,28.472628448356396,32.997081569139525,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Take on,12,4,1.5789,798.0,3,Sweeper,48.98655153680743,14.839574179876422,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Foul commit,11,8,1.6917,798.0,3,Sweeper,39.68791915440953,27.526671713003108,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Foul Won,6,6,1.015,798.0,3,Sweeper,28.975359238931993,35.40704987840746,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Tackle,37,25,5.5827,798.0,3,Sweeper,90.79306609666122,89.70950659172722,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Defensive reading,34,25,5.2444,798.0,3,Sweeper,43.95746994912115,56.08442041166571,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Clearance,32,31,5.3571,798.0,3,Sweeper,93.75239884020134,73.35314330639038,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Shot,11,1,1.297,798.0,3,Sweeper,48.43224160384449,61.617631475054395,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Aerial,41,13,5.3571,798.0,3,Sweeper,69.66106910696057,45.725376117497184,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Ball recovery,22,12,3.1579,798.0,3,Sweeper,62.71624115926545,77.64891177891542,CB,Sweeper,3.79
+Demo Club Interior,Player_030,900030,CB,Turnover,10,10,1.6917,798.0,3,Sweeper,10.804631843180218,56.557135775043314,CB,Sweeper,3.79
+Demo Club Norte,Player_031,900031,DMF,Pass,36,17,4.6952,853.0,1,Deep Lying Playmaker,52.44391727953286,72.5050627571313,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Long ball,33,14,4.2204,853.0,1,Deep Lying Playmaker,42.32656906938844,42.58866365988737,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Wide ball,10,8,1.4771,853.0,1,Deep Lying Playmaker,58.66210907302512,46.11778161670617,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Through ball,17,5,2.0574,853.0,1,Deep Lying Playmaker,29.714607121372836,24.821518608103784,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Progressive pass,29,18,4.0094,853.0,1,Deep Lying Playmaker,69.3028800278031,70.39862800326833,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Key pass,11,7,1.5299,853.0,1,Deep Lying Playmaker,68.02886275324953,54.78044504671224,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Take on,19,2,2.1102,853.0,1,Deep Lying Playmaker,39.091679690034965,37.43127925745898,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Foul commit,9,7,1.3189,853.0,1,Deep Lying Playmaker,0.0,38.21453735833055,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Foul Won,8,5,1.1079,853.0,1,Deep Lying Playmaker,63.43650639556239,89.96586162797388,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Tackle,29,14,3.7984,853.0,1,Deep Lying Playmaker,63.23687715606719,84.6318472032066,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Defensive reading,25,17,3.5346,853.0,1,Deep Lying Playmaker,36.3236490008481,83.51136725636238,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Clearance,18,8,2.3212,853.0,1,Deep Lying Playmaker,15.377902539367664,42.68693840444644,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Shot,17,6,2.1102,853.0,1,Deep Lying Playmaker,69.9365043496304,34.067915472794624,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Aerial,11,4,1.3716,853.0,1,Deep Lying Playmaker,26.45022905131703,50.86924974294303,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Ball recovery,40,21,5.3283,853.0,1,Deep Lying Playmaker,80.63692151056966,84.6617796248075,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,DMF,Turnover,8,8,1.2661,853.0,1,Deep Lying Playmaker,0.2725108826363183,85.57831336957756,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Pass,23,6,2.7433,853.0,3,Sweeper,44.45323406175146,62.24593134258218,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Long ball,15,7,1.9519,853.0,3,Sweeper,32.787510098671774,85.00320977507212,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Wide ball,9,3,1.1079,853.0,3,Sweeper,28.131329120331394,28.971759355510663,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Through ball,10,4,1.2661,853.0,3,Sweeper,52.02225871987634,36.402716274358305,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Progressive pass,15,10,2.1102,853.0,3,Sweeper,47.455154036837264,43.35067271705398,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Key pass,10,4,1.2661,853.0,3,Sweeper,46.268450899119216,91.93885971071788,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Take on,13,7,1.7409,853.0,3,Sweeper,58.836600831403615,42.26135305510565,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Foul commit,17,9,2.2685,853.0,3,Sweeper,40.64310264789897,67.35029860558816,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Foul Won,9,4,1.1606,853.0,3,Sweeper,23.022475921602265,60.45906950112992,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Tackle,30,9,3.6401,853.0,3,Sweeper,88.11475113983491,75.9871920761753,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Defensive reading,35,25,5.0117,853.0,3,Sweeper,67.83106314450805,78.00736014395075,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Clearance,45,15,5.5393,853.0,3,Sweeper,79.09834609930701,73.76278992283576,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Shot,16,5,1.9519,853.0,3,Sweeper,44.05018510375305,30.266744533785875,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Aerial,28,17,3.8511,853.0,3,Sweeper,87.77438135388054,71.5761649295138,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Ball recovery,23,17,3.3236,853.0,3,Sweeper,72.0592352307745,55.65939499643436,DMF,Deep Lying Playmaker,23.49
+Demo Club Norte,Player_031,900031,CB,Turnover,8,4,1.0551,853.0,3,Sweeper,16.32697444979621,48.70034847591359,DMF,Deep Lying Playmaker,23.49
+Demo Club Capital,Player_032,900032,CF,Pass,8,8,1.0942,987.0,1,Poacher,42.185176480309764,62.35272669409977,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Long ball,16,2,1.5502,987.0,1,Poacher,34.03167324469995,46.85041128463197,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Wide ball,13,3,1.3222,987.0,1,Poacher,78.00391191270157,43.27477366921379,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Through ball,16,7,1.7781,987.0,1,Poacher,23.090446820962864,30.4083336644368,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Progressive pass,4,7,0.6839,987.0,1,Poacher,58.687231109303696,51.89544235713008,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Key pass,11,1,1.0486,987.0,1,Poacher,44.20470435264485,27.744937863582415,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Take on,25,9,2.69,987.0,1,Poacher,50.699433046710695,66.40000750667947,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Foul commit,9,5,1.0486,987.0,1,Poacher,40.85125056743197,22.468016334541968,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Foul Won,30,16,3.465,987.0,1,Poacher,82.28445982136687,90.36968346610465,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Tackle,7,9,1.0486,987.0,1,Poacher,30.08438108069469,35.69609802471444,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Defensive reading,14,11,1.7781,987.0,1,Poacher,14.96416218712422,50.558461634851696,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Clearance,10,7,1.231,987.0,1,Poacher,25.333135099773045,25.338419374295885,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Shot,48,25,5.5167,987.0,1,Poacher,82.25665063523324,71.09586137544662,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Aerial,34,17,3.8754,987.0,1,Poacher,66.11558660970512,82.07207299659251,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Ball recovery,13,7,1.5046,987.0,1,Poacher,48.966116341827565,42.65505549248145,CF,Poacher,6.57
+Demo Club Capital,Player_032,900032,CF,Turnover,26,11,2.8723,987.0,1,Poacher,69.96628547932848,66.48154350604771,CF,Poacher,6.57
+Demo Club Mediterráneo,Player_033,900033,WF,Pass,15,10,0.5782,3113.0,2,Wide Playmaker,42.227592802804686,10.354256356409053,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Long ball,11,0,0.318,3113.0,2,Wide Playmaker,44.32930469588998,21.51189234037939,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Wide ball,40,12,1.3299,3113.0,2,Wide Playmaker,65.00762858270028,94.15489822553982,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Through ball,4,6,0.2024,3113.0,2,Wide Playmaker,61.13586826511924,4.883249808220981,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Progressive pass,24,12,0.8673,3113.0,2,Wide Playmaker,74.91593866776441,77.21720613252394,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Key pass,38,10,1.2432,3113.0,2,Wide Playmaker,55.20006054051998,62.77457099311491,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Take on,40,21,1.46,3113.0,2,Wide Playmaker,62.02810663715292,80.825696385975,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Foul commit,9,8,0.3758,3113.0,2,Wide Playmaker,32.01946485988499,44.07719476568226,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Foul Won,26,16,0.983,3113.0,2,Wide Playmaker,53.269024219550126,55.50414744269183,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Tackle,15,8,0.5493,3113.0,2,Wide Playmaker,48.03687706807752,68.64177619919573,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Defensive reading,8,10,0.3758,3113.0,2,Wide Playmaker,56.701190234419364,7.781381289165083,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Clearance,13,8,0.4915,3113.0,2,Wide Playmaker,71.26766994928668,50.12478779563941,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Shot,20,12,0.7517,3113.0,2,Wide Playmaker,64.37510334874422,55.481598776487466,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Aerial,16,3,0.5059,3113.0,2,Wide Playmaker,82.22632308359776,18.093237021577217,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Ball recovery,7,5,0.2747,3113.0,2,Wide Playmaker,54.21697439383382,15.110781213911572,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,WF,Turnover,10,4,0.3469,3113.0,2,Wide Playmaker,39.48753404691407,55.797436217975275,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Pass,19,11,0.7083,3113.0,2,Inverted Wing Back,47.81713380484099,61.50574133754738,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Long ball,20,6,0.665,3113.0,2,Inverted Wing Back,57.12323536044936,51.996737843728596,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Wide ball,43,24,1.5901,3113.0,2,Inverted Wing Back,67.67398970902354,61.847523404723034,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Through ball,10,6,0.3758,3113.0,2,Inverted Wing Back,47.34033547957524,34.20899228171035,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Progressive pass,33,13,1.142,3113.0,2,Inverted Wing Back,67.48798823050454,87.2807942519089,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Key pass,10,10,0.4337,3113.0,2,Inverted Wing Back,20.723561325926056,25.142647563853824,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Take on,19,14,0.7517,3113.0,2,Inverted Wing Back,37.78900268601914,44.941718411368,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Foul commit,11,7,0.4192,3113.0,2,Inverted Wing Back,50.898766905329914,26.8349839744823,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Foul Won,12,9,0.477,3113.0,2,Inverted Wing Back,39.64156673833047,10.31446537047475,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Tackle,32,13,1.1131,3113.0,2,Inverted Wing Back,60.86325380820651,72.14989587188904,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Defensive reading,19,20,0.8384,3113.0,2,Inverted Wing Back,45.08949666651276,45.18220656681764,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Clearance,8,2,0.2602,3113.0,2,Inverted Wing Back,81.5187740463629,61.97982977656348,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Shot,12,8,0.4626,3113.0,2,Inverted Wing Back,51.15793999681398,28.664503065218923,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Aerial,5,4,0.2024,3113.0,2,Inverted Wing Back,68.473302307591,79.71000730897619,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Ball recovery,28,19,1.0842,3113.0,2,Inverted Wing Back,50.916439979409034,78.35338659486112,WF,Wide Playmaker,2.58
+Demo Club Mediterráneo,Player_033,900033,FB,Turnover,13,4,0.4337,3113.0,2,Inverted Wing Back,67.05216790145937,27.881355744069545,WF,Wide Playmaker,2.58
+Demo Club Atlántico,Player_034,900034,WF,Pass,16,5,0.7828,2127.0,2,Wide Playmaker,24.964358896634405,62.45651653089893,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Long ball,13,6,0.677,2127.0,2,Wide Playmaker,24.730111957920712,42.795021560660786,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Wide ball,37,8,1.7348,2127.0,2,Wide Playmaker,100.0,100.0,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Through ball,11,10,0.677,2127.0,2,Wide Playmaker,59.09039376694335,46.05942891730814,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Progressive pass,25,12,1.3117,2127.0,2,Wide Playmaker,66.0160818337748,63.883022626201075,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Key pass,24,15,1.3329,2127.0,2,Wide Playmaker,75.0645885454366,48.13352250737485,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Take on,35,27,2.0522,2127.0,2,Wide Playmaker,95.25619023955743,85.15308482713687,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Foul commit,17,8,0.8886,2127.0,2,Wide Playmaker,41.302264345087096,50.65280629009734,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Foul Won,15,7,0.7828,2127.0,2,Wide Playmaker,44.875258576373504,47.780050533121894,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Tackle,13,7,0.6982,2127.0,2,Wide Playmaker,53.43416204936869,25.344478426407434,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Defensive reading,12,8,0.677,2127.0,2,Wide Playmaker,42.6522663558366,27.00765639343401,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Clearance,10,5,0.5289,2127.0,2,Wide Playmaker,49.39892522766293,51.308477204384076,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Shot,24,17,1.3752,2127.0,2,Wide Playmaker,55.50198205395685,79.01652794173495,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Aerial,6,10,0.4654,2127.0,2,Wide Playmaker,69.77949759517281,19.801531721448978,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Ball recovery,6,2,0.2962,2127.0,2,Wide Playmaker,44.976982529257405,37.015437683433966,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,WF,Turnover,12,11,0.7405,2127.0,2,Wide Playmaker,27.677626252716156,18.08955704271798,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Pass,14,10,0.8039,2127.0,3,Full Back,49.83594981808939,50.30432083761162,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Long ball,14,4,0.677,2127.0,3,Full Back,10.428908904799133,63.78174827174515,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Wide ball,41,22,2.2003,2127.0,3,Full Back,90.08612062977808,73.54306264646081,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Through ball,14,8,0.7616,2127.0,3,Full Back,50.63478944640844,37.238763568835864,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Progressive pass,28,14,1.481,2127.0,3,Full Back,24.297771566254355,62.49780171764533,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Key pass,9,9,0.5712,2127.0,3,Full Back,69.0251642573273,40.03008376390318,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Take on,21,11,1.1213,2127.0,3,Full Back,76.81825850600299,44.34499565414856,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Foul commit,7,4,0.3808,2127.0,3,Full Back,52.26815387834758,33.93248723042073,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Foul Won,3,3,0.1904,2127.0,3,Full Back,60.08664374637553,27.671794506170944,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Tackle,26,17,1.4598,2127.0,3,Full Back,32.56354386833723,38.333219923174724,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Defensive reading,24,10,1.2271,2127.0,3,Full Back,27.805080776150277,26.7500907904018,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Clearance,17,4,0.8039,2127.0,3,Full Back,55.10814121254805,24.015519268658423,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Shot,14,8,0.7616,2127.0,3,Full Back,37.61890120034096,34.78899810237171,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Aerial,18,3,0.8251,2127.0,3,Full Back,47.95088935205857,34.60131450007761,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Ball recovery,29,19,1.6291,2127.0,3,Full Back,60.03416423216984,23.82693195584801,WF,Wide Playmaker,10.21
+Demo Club Atlántico,Player_034,900034,FB,Turnover,10,5,0.5289,2127.0,3,Full Back,85.20535771016836,66.20171514957525,WF,Wide Playmaker,10.21
+Demo Club Sur,Player_035,900035,CB,Pass,22,9,1.7614,1354.0,2,Ball Playing Defender,54.99845541243154,58.77213470203469,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Long ball,12,9,1.0968,1354.0,2,Ball Playing Defender,40.178836253281055,48.11674410783212,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Wide ball,8,9,0.8309,1354.0,2,Ball Playing Defender,13.478953209277702,66.89119010317475,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Through ball,15,5,1.1632,1354.0,2,Ball Playing Defender,57.002412528140496,33.65045073582675,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Progressive pass,13,4,0.997,1354.0,2,Ball Playing Defender,28.82003388585709,49.05085040512771,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Key pass,14,3,1.0303,1354.0,2,Ball Playing Defender,40.67072123354599,95.79997263607949,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Take on,23,3,1.6285,1354.0,2,Ball Playing Defender,45.308504135731525,22.280621062380078,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Foul commit,11,4,0.8641,1354.0,2,Ball Playing Defender,41.748650981517784,19.733126371831865,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Foul Won,15,2,1.0635,1354.0,2,Ball Playing Defender,51.23027513917445,30.353831546357107,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Tackle,32,20,2.7917,1354.0,2,Ball Playing Defender,74.26753731832832,70.56069303400298,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Defensive reading,42,16,3.3235,1354.0,2,Ball Playing Defender,44.66402560185539,72.42831347803576,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Clearance,41,18,3.3235,1354.0,2,Ball Playing Defender,100.0,64.10393004438255,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Shot,10,7,0.8973,1354.0,2,Ball Playing Defender,43.85069407244353,55.349440145662655,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Aerial,29,22,2.6588,1354.0,2,Ball Playing Defender,77.83352003619055,82.65610665588281,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Ball recovery,25,12,2.0606,1354.0,2,Ball Playing Defender,48.78038613139589,90.61074044057511,CB,Ball Playing Defender,0.76
+Demo Club Sur,Player_035,900035,CB,Turnover,16,4,1.1965,1354.0,2,Ball Playing Defender,60.106259852313315,50.07950990678279,CB,Ball Playing Defender,0.76
+Demo Club Interior,Player_036,900036,CF,Pass,22,11,3.1409,788.0,2,Mobile Striker,61.35072257175224,68.19285619530048,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Long ball,15,8,2.1701,788.0,2,Mobile Striker,41.00727092078456,39.716186664181286,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Wide ball,12,3,1.5419,788.0,2,Mobile Striker,63.21832588170945,34.235347251711715,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Through ball,4,7,0.8566,788.0,2,Mobile Striker,55.98433320587728,38.88583208018468,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Progressive pass,14,8,2.0558,788.0,2,Mobile Striker,12.706963146576847,59.507621228937566,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Key pass,10,9,1.6561,788.0,2,Mobile Striker,36.339410634332324,45.58232939072026,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Take on,27,9,3.5977,788.0,2,Mobile Striker,12.545295894730721,50.09835525879759,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Foul commit,12,6,1.7132,788.0,2,Mobile Striker,45.21438875599264,49.74151320960625,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Foul Won,37,20,5.368,788.0,2,Mobile Striker,64.60410688513538,6.843943834698678,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Tackle,9,2,1.1421,788.0,2,Mobile Striker,37.88458133088405,42.050799811670196,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Defensive reading,11,7,1.6561,788.0,2,Mobile Striker,28.43499971240155,39.077472855829946,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Clearance,15,8,2.1701,788.0,2,Mobile Striker,25.36820646930203,27.141690415013212,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Shot,38,17,5.3109,788.0,2,Mobile Striker,46.94221768930331,84.60183403792117,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Aerial,30,18,4.4543,788.0,2,Mobile Striker,44.17546990824847,63.220453085802106,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Ball recovery,13,8,1.9416,788.0,2,Mobile Striker,42.17161846027984,28.261825586151602,CF,Mobile Striker,3.01
+Demo Club Interior,Player_036,900036,CF,Turnover,23,15,3.4835,788.0,2,Mobile Striker,68.07015074007043,63.6313765775579,CF,Mobile Striker,3.01
+Demo Club Norte,Player_037,900037,WF,Pass,18,4,0.8475,2124.0,3,Winger,74.29922122390936,45.21630007795431,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Long ball,10,3,0.4873,2124.0,3,Winger,47.4720602265462,18.508378645857302,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Wide ball,29,13,1.5042,2124.0,3,Winger,82.15097237901306,64.92559552760697,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Through ball,14,3,0.6568,2124.0,3,Winger,68.50343437961979,59.5504055182148,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Progressive pass,26,13,1.3771,2124.0,3,Winger,64.46196674511171,95.9415437101138,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Key pass,26,10,1.3136,2124.0,3,Winger,52.8982988085831,63.31295978995245,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Take on,34,25,1.9703,2124.0,3,Winger,91.33069054488425,84.11251413647756,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Foul commit,12,8,0.678,2124.0,3,Winger,44.10146205732003,8.673235280753225,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Foul Won,25,10,1.2712,2124.0,3,Winger,49.04431234001503,71.43525545027035,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Tackle,11,7,0.6144,2124.0,3,Winger,42.074878994176,74.03227085193241,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Defensive reading,12,5,0.6144,2124.0,3,Winger,50.67809289239763,41.755489822087014,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Clearance,16,3,0.7415,2124.0,3,Winger,41.73161280979085,30.58720733500919,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Shot,25,20,1.4831,2124.0,3,Winger,54.18058385120871,54.93413674850644,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Aerial,11,8,0.6356,2124.0,3,Winger,26.63392024008978,31.301254437528303,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Ball recovery,17,2,0.7627,2124.0,3,Winger,26.245873581553838,14.650885675702341,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,WF,Turnover,13,3,0.6144,2124.0,3,Winger,30.83555076806094,35.827381773212764,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Pass,21,7,1.0381,2124.0,3,Target Man,48.02433124658901,56.31020977324732,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Long ball,15,3,0.6992,2124.0,3,Target Man,32.81871867031873,9.922454153443972,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Wide ball,14,7,0.7415,2124.0,3,Target Man,66.45595901973523,27.80754527560648,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Through ball,7,9,0.4873,2124.0,3,Target Man,28.572943484164604,42.65326543115722,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Progressive pass,11,6,0.5932,2124.0,3,Target Man,13.354806426763695,50.89471513945219,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Key pass,11,8,0.6356,2124.0,3,Target Man,30.68449056732111,31.66033880714392,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Take on,17,8,0.8898,2124.0,3,Target Man,62.0711926348374,23.401449252421116,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Foul commit,10,7,0.572,2124.0,3,Target Man,43.49062163095818,57.346198508329685,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Foul Won,25,12,1.3136,2124.0,3,Target Man,57.36957627459107,100.0,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Tackle,9,5,0.4873,2124.0,3,Target Man,66.2141979350459,47.71089459233173,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Defensive reading,10,3,0.4873,2124.0,3,Target Man,44.637007797767005,51.74797967849938,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Clearance,11,8,0.6356,2124.0,3,Target Man,27.028615538829207,24.51260550682507,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Shot,43,18,2.2034,2124.0,3,Target Man,87.76906398334356,98.32060728229422,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Aerial,33,18,1.7797,2124.0,3,Target Man,41.40025615094348,46.74440449651049,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Ball recovery,10,6,0.5508,2124.0,3,Target Man,58.14995257133961,28.76258469605747,WF,Winger,6.89
+Demo Club Norte,Player_037,900037,CF,Turnover,34,20,1.8644,2124.0,3,Target Man,57.727240845648,2.9297797292086116,WF,Winger,6.89
+Demo Club Capital,Player_038,900038,CMF,Pass,39,14,3.7398,1107.0,2,Holding Midfielder,84.33289800253378,89.9976569827787,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Long ball,8,11,1.0976,1107.0,2,Holding Midfielder,49.99266394089683,41.03602777065086,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Wide ball,11,7,1.1789,1107.0,2,Holding Midfielder,27.04112833114707,36.97498295471232,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Through ball,19,10,1.9512,1107.0,2,Holding Midfielder,36.067847195908186,77.88131855407957,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Progressive pass,33,18,3.4146,1107.0,2,Holding Midfielder,55.51208177355472,100.0,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Key pass,23,14,2.439,1107.0,2,Holding Midfielder,65.84068536431244,55.45043394735048,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Take on,15,3,1.3415,1107.0,2,Holding Midfielder,52.40306148560588,42.649678054855016,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Foul commit,14,7,1.4228,1107.0,2,Holding Midfielder,47.07274652147527,58.59836728876205,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Foul Won,22,14,2.3577,1107.0,2,Holding Midfielder,19.736028135020163,71.23815038446968,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Tackle,13,5,1.2602,1107.0,2,Holding Midfielder,43.707620075021346,28.344725306343808,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Defensive reading,16,7,1.5854,1107.0,2,Holding Midfielder,61.027707502592996,51.32064000321735,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Clearance,14,8,1.4634,1107.0,2,Holding Midfielder,32.404086269808055,16.182075303593756,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Shot,14,7,1.4228,1107.0,2,Holding Midfielder,29.507855730843865,46.46226673996591,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Aerial,10,8,1.1382,1107.0,2,Holding Midfielder,27.34129034469933,61.376643069862055,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Ball recovery,28,14,2.8455,1107.0,2,Holding Midfielder,52.40694691984502,57.397425203089036,CMF,Holding Midfielder,9.94
+Demo Club Capital,Player_038,900038,CMF,Turnover,10,6,1.0569,1107.0,2,Holding Midfielder,15.758932305204972,49.03780223962522,CMF,Holding Midfielder,9.94
+Demo Club Mediterráneo,Player_039,900039,CB,Pass,23,13,2.8827,921.0,1,Stopper,30.914129088782435,34.76191027858934,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Long ball,16,8,1.9544,921.0,1,Stopper,73.70064507653908,33.53601683737098,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Wide ball,9,6,1.1726,921.0,1,Stopper,45.09664868515351,68.10304002221098,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Through ball,7,3,0.8306,921.0,1,Stopper,44.6974643820238,49.868234739090255,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Progressive pass,14,8,1.759,921.0,1,Stopper,54.25518824616104,0.0,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Key pass,8,10,1.2704,921.0,1,Stopper,20.572471764349658,51.25552277300562,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Take on,12,9,1.6124,921.0,1,Stopper,25.41986784708056,57.35109786052561,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Foul commit,14,4,1.5635,921.0,1,Stopper,35.296790577761314,96.21101980759857,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Foul Won,10,9,1.4169,921.0,1,Stopper,63.61565507538552,0.854033696501233,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Tackle,36,18,4.3974,921.0,1,Stopper,64.95618053596431,36.210652941966515,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Defensive reading,27,11,3.1759,921.0,1,Stopper,75.57912678409184,74.71923071346082,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Clearance,30,24,4.1042,921.0,1,Stopper,73.58032477866264,75.70221434644587,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Shot,8,6,1.0749,921.0,1,Stopper,17.19151182580718,45.97166793029083,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Aerial,32,21,4.1531,921.0,1,Stopper,69.19383313207838,55.00149662686078,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Ball recovery,32,13,3.7622,921.0,1,Stopper,72.45288187815687,30.597092555643858,CB,Stopper,1.27
+Demo Club Mediterráneo,Player_039,900039,CB,Turnover,15,5,1.7101,921.0,1,Stopper,50.21734208645518,80.00900284328236,CB,Stopper,1.27
+Demo Club Atlántico,Player_040,900040,AMF,Pass,33,19,1.716,2229.0,1,Advanced Playmaker,72.88783455685987,68.88780731569719,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Long ball,14,8,0.7268,2229.0,1,Advanced Playmaker,28.63264505335892,62.61932518865397,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Wide ball,7,11,0.5047,2229.0,1,Advanced Playmaker,10.456406210469325,39.90793955376092,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Through ball,23,17,1.2719,2229.0,1,Advanced Playmaker,96.18352607548094,56.69249384042968,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Progressive pass,11,5,0.5451,2229.0,1,Advanced Playmaker,64.85988810205814,81.0291256838911,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Key pass,43,22,2.1803,2229.0,1,Advanced Playmaker,82.66519176324681,76.98540013405672,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Take on,21,15,1.1507,2229.0,1,Advanced Playmaker,60.38626563675386,75.2742196656975,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Foul commit,14,9,0.747,2229.0,1,Advanced Playmaker,20.97508860378538,26.671175309532792,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Foul Won,30,12,1.4536,2229.0,1,Advanced Playmaker,43.403527592583146,25.240709881138418,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Tackle,12,0,0.4845,2229.0,1,Advanced Playmaker,16.799073560932566,57.68112991916866,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Defensive reading,14,7,0.7066,2229.0,1,Advanced Playmaker,26.315570549392966,60.13270201294243,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Clearance,15,2,0.646,2229.0,1,Advanced Playmaker,74.11717918301166,50.08285216185094,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Shot,27,11,1.3122,2229.0,1,Advanced Playmaker,50.3878793381741,71.78356413440258,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Aerial,13,2,0.5653,2229.0,1,Advanced Playmaker,30.656299671055407,27.31672248637283,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Ball recovery,13,1,0.5451,2229.0,1,Advanced Playmaker,39.24447558153093,43.26698768754538,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,AMF,Turnover,11,7,0.5855,2229.0,1,Advanced Playmaker,27.914960148156517,81.8898749345978,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Pass,38,11,1.7564,2229.0,2,Holding Midfielder,100.0,44.98042580579777,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Long ball,12,2,0.5249,2229.0,2,Holding Midfielder,28.42434975204408,57.44673036228426,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Wide ball,15,6,0.7268,2229.0,2,Holding Midfielder,24.606866498473348,26.17394850913232,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Through ball,16,13,0.9085,2229.0,2,Holding Midfielder,78.6543872435472,43.703372930090254,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Progressive pass,41,13,1.9179,2229.0,2,Holding Midfielder,78.4379828765652,85.02849988483574,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Key pass,21,7,0.9892,2229.0,2,Holding Midfielder,41.362358263322264,83.20757928630617,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Take on,13,3,0.5855,2229.0,2,Holding Midfielder,52.82693088804243,58.740148944996676,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Foul commit,6,8,0.4038,2229.0,2,Holding Midfielder,22.86627906241232,18.382480570055996,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Foul Won,18,8,0.8883,2229.0,2,Holding Midfielder,67.14590459295388,46.05099795358278,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Tackle,11,6,0.5653,2229.0,2,Holding Midfielder,56.558940432304766,74.61675217163358,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Defensive reading,7,2,0.323,2229.0,2,Holding Midfielder,65.51806652447594,46.019916742797825,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Clearance,10,7,0.5451,2229.0,2,Holding Midfielder,54.30372511477586,20.050556652357415,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Shot,13,2,0.5653,2229.0,2,Holding Midfielder,14.22726368935168,34.043902174564494,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Aerial,10,6,0.5249,2229.0,2,Holding Midfielder,46.85725280034749,12.483887483373383,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Ball recovery,25,15,1.3122,2229.0,2,Holding Midfielder,68.30615439537216,78.9476286741922,AMF,Advanced Playmaker,2.23
+Demo Club Atlántico,Player_040,900040,CMF,Turnover,9,7,0.5047,2229.0,2,Holding Midfielder,8.858390970644265,0.0,AMF,Advanced Playmaker,2.23
+Demo Club Sur,Player_041,900041,CB,Pass,10,14,1.5315,999.0,2,Ball Playing Defender,83.96161274634855,62.414168710005754,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Long ball,17,9,1.9369,999.0,2,Ball Playing Defender,40.014838135528805,68.95061994137518,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Wide ball,16,10,1.8919,999.0,2,Ball Playing Defender,54.242881595019306,30.75444358236605,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Through ball,15,4,1.5315,999.0,2,Ball Playing Defender,66.47443338925582,64.67651040027984,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Progressive pass,17,4,1.7117,999.0,2,Ball Playing Defender,32.21308275126045,40.047269735202384,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Key pass,9,8,1.1712,999.0,2,Ball Playing Defender,44.666502490332654,3.7664146604049265,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Take on,10,7,1.2162,999.0,2,Ball Playing Defender,39.09616427296483,57.959644664351366,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Foul commit,18,7,1.9369,999.0,2,Ball Playing Defender,39.52362103883654,32.735149794757575,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Foul Won,8,10,1.1712,999.0,2,Ball Playing Defender,55.892178482960325,26.921369066211778,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Tackle,28,12,3.0631,999.0,2,Ball Playing Defender,100.0,59.82888774405922,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Defensive reading,30,11,3.1982,999.0,2,Ball Playing Defender,77.97815662578715,72.38785021152363,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Clearance,31,22,3.7838,999.0,2,Ball Playing Defender,76.5065385740994,92.79180255364108,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Shot,11,12,1.5315,999.0,2,Ball Playing Defender,57.79821002560769,37.88210881507153,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Aerial,40,14,4.2342,999.0,2,Ball Playing Defender,45.10178663461284,100.0,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Ball recovery,24,15,2.8378,999.0,2,Ball Playing Defender,8.013449562318193,78.52461065904251,CB,Ball Playing Defender,0.75
+Demo Club Sur,Player_041,900041,CB,Turnover,11,7,1.3063,999.0,2,Ball Playing Defender,34.142313753095614,26.540960933223694,CB,Ball Playing Defender,0.75
+Demo Club Interior,Player_042,900042,DMF,Pass,31,22,1.9555,1933.0,1,Deep Lying Playmaker,66.63113947896376,92.90337606434863,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Long ball,23,10,1.3037,1933.0,1,Deep Lying Playmaker,72.8364632758684,53.94531714911118,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Wide ball,11,11,0.7682,1933.0,1,Deep Lying Playmaker,68.65738005688014,60.14220704269182,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Through ball,14,7,0.8148,1933.0,1,Deep Lying Playmaker,42.586808301882314,30.221383028456724,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Progressive pass,35,12,1.9089,1933.0,1,Deep Lying Playmaker,83.91770814069659,25.838685208331988,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Key pass,20,8,1.1174,1933.0,1,Deep Lying Playmaker,51.88159266187773,62.94083890266414,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Take on,8,8,0.5587,1933.0,1,Deep Lying Playmaker,7.989771875447374,18.19908146117392,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Foul commit,14,7,0.8148,1933.0,1,Deep Lying Playmaker,34.7700157803952,76.94311030334282,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Foul Won,15,6,0.8381,1933.0,1,Deep Lying Playmaker,51.90540094924172,59.84110519692977,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Tackle,31,13,1.746,1933.0,1,Deep Lying Playmaker,72.19457467411675,77.88269633710841,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Defensive reading,32,26,2.0952,1933.0,1,Deep Lying Playmaker,57.25585334242605,84.0540325528708,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Clearance,7,6,0.4656,1933.0,1,Deep Lying Playmaker,58.521938240575054,42.324175536879494,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Shot,15,4,0.7915,1933.0,1,Deep Lying Playmaker,28.914103076976534,11.421615829648921,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Aerial,10,7,0.6286,1933.0,1,Deep Lying Playmaker,15.342766626298651,43.78411346968432,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Ball recovery,36,20,2.1417,1933.0,1,Deep Lying Playmaker,99.85596725961773,28.159873525471298,DMF,Deep Lying Playmaker,4.19
+Demo Club Interior,Player_042,900042,DMF,Turnover,15,6,0.8381,1933.0,1,Deep Lying Playmaker,61.01245696022592,51.368617303320775,DMF,Deep Lying Playmaker,4.19
+Demo Club Norte,Player_043,900043,DMF,Pass,38,15,1.5482,2645.0,2,Ball Winning Midfielder,78.00263669136486,79.70998694479925,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Long ball,23,8,0.9187,2645.0,2,Ball Winning Midfielder,50.42195255838611,40.008093879886374,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Wide ball,13,7,0.5614,2645.0,2,Ball Winning Midfielder,56.28147446143645,69.87382566978606,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Through ball,12,2,0.4423,2645.0,2,Ball Winning Midfielder,52.55802992870264,48.20503719871827,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Progressive pass,30,27,1.4802,2645.0,2,Ball Winning Midfielder,43.317352845037696,53.55152065779647,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Key pass,14,4,0.5444,2645.0,2,Ball Winning Midfielder,40.10717239028603,16.226555545171472,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Take on,15,3,0.5614,2645.0,2,Ball Winning Midfielder,48.040990111920024,18.617243936142067,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Foul commit,17,8,0.7146,2645.0,2,Ball Winning Midfielder,40.736374620459394,37.23433924279931,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Foul Won,11,8,0.5104,2645.0,2,Ball Winning Midfielder,22.80952177968505,33.56384158143629,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Tackle,31,14,1.293,2645.0,2,Ball Winning Midfielder,89.18472036846504,99.29683110916085,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Defensive reading,32,10,1.259,2645.0,2,Ball Winning Midfielder,54.407009261494714,75.6448150069961,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Clearance,12,6,0.5104,2645.0,2,Ball Winning Midfielder,77.44645558879401,60.34898997263117,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Shot,16,7,0.6635,2645.0,2,Ball Winning Midfielder,28.912249339644195,26.321655626410866,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Aerial,11,4,0.4423,2645.0,2,Ball Winning Midfielder,39.87328865724926,14.19856826229234,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Ball recovery,41,27,1.8544,2645.0,2,Ball Winning Midfielder,85.75928686992037,60.21565788645045,DMF,Ball Winning Midfielder,8.42
+Demo Club Norte,Player_043,900043,DMF,Turnover,5,5,0.2552,2645.0,2,Ball Winning Midfielder,52.388324266674815,21.618759809061252,DMF,Ball Winning Midfielder,8.42
+Demo Club Capital,Player_044,900044,FB,Pass,27,18,4.3548,744.0,2,Inverted Wing Back,76.87639162579217,87.36308839088522,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Long ball,11,11,1.996,744.0,2,Inverted Wing Back,61.24703587071052,23.32272055389048,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Wide ball,41,14,5.8065,744.0,2,Inverted Wing Back,55.65485166917336,50.492093236066594,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Through ball,14,6,2.0565,744.0,2,Inverted Wing Back,32.84072337392845,25.974432099243327,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Progressive pass,31,23,5.1411,744.0,2,Inverted Wing Back,89.1553661967351,91.79425120556832,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Key pass,13,10,2.1774,744.0,2,Inverted Wing Back,52.9023341697745,60.12711227139906,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Take on,16,12,2.6613,744.0,2,Inverted Wing Back,21.93425544746046,41.73656359302048,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Foul commit,15,9,2.3589,744.0,2,Inverted Wing Back,53.72966891880669,37.469361145480036,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Foul Won,9,6,1.4516,744.0,2,Inverted Wing Back,38.356055520951,0.0,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Tackle,29,13,4.2944,744.0,2,Inverted Wing Back,55.96017797615799,46.93912696136837,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Defensive reading,24,5,3.2056,744.0,2,Inverted Wing Back,96.71892668648167,69.44677965467454,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Clearance,6,4,0.9677,744.0,2,Inverted Wing Back,60.569798037001895,42.652120673271895,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Shot,14,8,2.1774,744.0,2,Inverted Wing Back,32.299761562595485,25.582991128605634,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Aerial,10,5,1.5121,744.0,2,Inverted Wing Back,38.845231702575305,48.867270411638216,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Ball recovery,31,15,4.6573,744.0,2,Inverted Wing Back,61.72907610703628,50.86541824467565,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,FB,Turnover,7,4,1.0887,744.0,2,Inverted Wing Back,66.6252975792285,54.95462690103663,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Pass,24,14,3.75,744.0,1,Deep Lying Playmaker,76.4631624093931,90.21338413903273,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Long ball,20,18,3.5081,744.0,1,Deep Lying Playmaker,49.76463293868248,79.69158685375808,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Wide ball,14,3,1.875,744.0,1,Deep Lying Playmaker,42.34748033535819,65.0017325652199,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Through ball,6,3,0.9073,744.0,1,Deep Lying Playmaker,24.473415239269478,40.65716141407236,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Progressive pass,25,14,3.871,744.0,1,Deep Lying Playmaker,100.0,87.47636603464517,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Key pass,10,5,1.5121,744.0,1,Deep Lying Playmaker,42.8762794914841,0.7489417372580149,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Take on,12,5,1.754,744.0,1,Deep Lying Playmaker,91.25420648597733,36.12608821884796,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Foul commit,9,7,1.5121,744.0,1,Deep Lying Playmaker,37.672175302509146,59.91871170968553,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Foul Won,15,4,2.0565,744.0,1,Deep Lying Playmaker,42.25936178210153,46.33457615121687,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Tackle,31,15,4.6573,744.0,1,Deep Lying Playmaker,48.16261641713329,64.09422440631386,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Defensive reading,38,16,5.5645,744.0,1,Deep Lying Playmaker,63.217492818984425,78.23116853043325,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Clearance,6,8,1.2097,744.0,1,Deep Lying Playmaker,24.59243392748868,43.948362146197375,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Shot,10,9,1.754,744.0,1,Deep Lying Playmaker,9.668865902526832,39.796265023540315,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Aerial,10,7,1.6331,744.0,1,Deep Lying Playmaker,56.85314028423395,69.10236453223098,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Ball recovery,28,23,4.7782,744.0,1,Deep Lying Playmaker,74.86697380656807,52.19780422866263,FB,Inverted Wing Back,17.81
+Demo Club Capital,Player_044,900044,DMF,Turnover,4,4,0.7258,744.0,1,Deep Lying Playmaker,67.51008011042867,79.95364200262505,FB,Inverted Wing Back,17.81
+Demo Club Mediterráneo,Player_045,900045,WF,Pass,10,3,0.4512,2294.0,2,Wide Playmaker,66.10014839781864,47.65029858735204,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Long ball,11,3,0.4904,2294.0,2,Wide Playmaker,19.61130841450015,59.08532588597258,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Wide ball,30,19,1.5497,2294.0,2,Wide Playmaker,41.07159729251603,40.00777068480997,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Through ball,11,7,0.5689,2294.0,2,Wide Playmaker,48.513460158914185,33.95572175671256,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Progressive pass,29,19,1.5105,2294.0,2,Wide Playmaker,97.64199476120365,46.398993460166416,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Key pass,25,10,1.177,2294.0,2,Wide Playmaker,48.594202253795494,98.48061698072209,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Take on,25,18,1.3339,2294.0,2,Wide Playmaker,100.0,76.25664581636042,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Foul commit,14,7,0.6866,2294.0,2,Wide Playmaker,13.275157197304576,27.085163090731985,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Foul Won,26,9,1.1966,2294.0,2,Wide Playmaker,31.26823333730468,65.53289125405077,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Tackle,10,7,0.5296,2294.0,2,Wide Playmaker,79.95349030516562,32.196699237251785,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Defensive reading,9,3,0.4119,2294.0,2,Wide Playmaker,41.68377294652142,27.30447300685835,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Clearance,12,8,0.6277,2294.0,2,Wide Playmaker,44.31975753561959,63.193397318674855,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Shot,37,19,1.8243,2294.0,2,Wide Playmaker,77.34173285562511,60.178430315021004,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Aerial,10,2,0.4316,2294.0,2,Wide Playmaker,41.32072351703997,30.59788852095246,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Ball recovery,5,8,0.3531,2294.0,2,Wide Playmaker,45.062262855245216,45.732204655214304,WF,Wide Playmaker,9.27
+Demo Club Mediterráneo,Player_045,900045,WF,Turnover,15,5,0.6866,2294.0,2,Wide Playmaker,41.18296704486797,28.94428321273771,WF,Wide Playmaker,9.27
+Demo Club Atlántico,Player_046,900046,CMF,Pass,43,17,2.975,1558.0,3,Box-to-box Midfielder,95.75926244863152,73.03918707669537,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Long ball,14,12,1.1553,1558.0,3,Box-to-box Midfielder,45.71875137462757,61.581911083850734,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Wide ball,16,4,1.0398,1558.0,3,Box-to-box Midfielder,65.22512204337949,66.78563558143517,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Through ball,19,7,1.2997,1558.0,3,Box-to-box Midfielder,61.34907345123806,57.30699092829371,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Progressive pass,32,11,2.1662,1558.0,3,Box-to-box Midfielder,89.89032085842712,54.38632785765623,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Key pass,26,14,1.9063,1558.0,3,Box-to-box Midfielder,78.8312552020191,91.18308034588095,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Take on,14,9,1.0687,1558.0,3,Box-to-box Midfielder,40.194815004197125,35.74684086100442,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Foul commit,16,8,1.1553,1558.0,3,Box-to-box Midfielder,18.44761207996965,15.58718942059312,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Foul Won,19,16,1.5597,1558.0,3,Box-to-box Midfielder,41.66506523388215,47.00493680710341,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Tackle,10,3,0.6643,1558.0,3,Box-to-box Midfielder,61.35849366771397,56.23146467749309,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Defensive reading,17,6,1.1553,1558.0,3,Box-to-box Midfielder,32.447151502241624,54.04399655734387,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Clearance,11,9,0.8954,1558.0,3,Box-to-box Midfielder,36.91083428423136,38.98404513900462,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Shot,14,6,0.982,1558.0,3,Box-to-box Midfielder,25.756277980859394,53.53530894956945,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Aerial,14,8,1.0398,1558.0,3,Box-to-box Midfielder,41.34355818240815,35.386261997826175,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Ball recovery,22,12,1.6175,1558.0,3,Box-to-box Midfielder,20.512474208861583,64.06311247152401,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,CMF,Turnover,12,3,0.7798,1558.0,3,Box-to-box Midfielder,55.98140861631407,17.071876707600964,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Pass,29,12,2.0218,1558.0,2,Second Striker,25.7009959361502,52.81533712288945,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Long ball,15,5,1.0109,1558.0,2,Second Striker,34.44136038516179,70.17983867438562,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Wide ball,15,8,1.0976,1558.0,2,Second Striker,19.50084749647737,37.62602503829793,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Through ball,30,14,2.1374,1558.0,2,Second Striker,47.01216772114333,90.63084404267508,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Progressive pass,10,3,0.6643,1558.0,2,Second Striker,35.95262006284192,5.930432576745368,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Key pass,38,23,2.8594,1558.0,2,Second Striker,78.03984344230486,75.53953275322411,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Take on,17,12,1.3286,1558.0,2,Second Striker,69.80105990355386,65.77170426362296,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Foul commit,20,6,1.3286,1558.0,2,Second Striker,63.88335510250154,88.89931262561197,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Foul Won,19,15,1.5308,1558.0,2,Second Striker,39.65379683739562,75.95562439897022,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Tackle,15,4,0.982,1558.0,2,Second Striker,56.58612328963985,63.14205645582621,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Defensive reading,20,4,1.2709,1558.0,2,Second Striker,54.066461189175804,36.71104994821507,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Clearance,14,7,1.0109,1558.0,2,Second Striker,56.65876057826803,50.073987645635825,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Shot,24,13,1.7619,1558.0,2,Second Striker,77.12047882090835,72.67694600111307,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Aerial,14,2,0.8665,1558.0,2,Second Striker,36.886167829343876,20.283646954728198,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Ball recovery,12,5,0.8376,1558.0,2,Second Striker,34.9092093706264,76.36023473048488,CMF,Box-to-box Midfielder,11.42
+Demo Club Atlántico,Player_046,900046,AMF,Turnover,15,7,1.0687,1558.0,2,Second Striker,34.683830919295445,44.151506672871484,CMF,Box-to-box Midfielder,11.42
+Demo Club Sur,Player_047,900047,CB,Pass,18,3,1.0566,1661.0,2,Ball Playing Defender,64.17619301374654,43.227483373490834,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Long ball,20,2,1.1379,1661.0,2,Ball Playing Defender,42.496334366319424,90.33329934754765,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Wide ball,10,8,0.7586,1661.0,2,Ball Playing Defender,31.034446256786456,41.86529830714462,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Through ball,17,5,1.0566,1661.0,2,Ball Playing Defender,0.11938323733830458,27.28691284297731,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Progressive pass,8,7,0.6231,1661.0,2,Ball Playing Defender,28.98667833913773,39.032206295460774,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Key pass,10,5,0.6773,1661.0,2,Ball Playing Defender,40.56375288120977,52.720072821073565,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Take on,16,2,0.9211,1661.0,2,Ball Playing Defender,46.23711156885325,20.403307011948776,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Foul commit,10,7,0.7315,1661.0,2,Ball Playing Defender,44.22431804377761,46.03018255899571,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Foul Won,10,10,0.8128,1661.0,2,Ball Playing Defender,41.14756559176622,39.661445331879925,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Tackle,30,15,2.0319,1661.0,2,Ball Playing Defender,42.44761129032249,54.019400509556476,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Defensive reading,40,15,2.5738,1661.0,2,Ball Playing Defender,68.34750917232198,77.71998048629054,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Clearance,44,22,2.9801,1661.0,2,Ball Playing Defender,100.0,52.40971267176889,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Shot,16,5,1.0024,1661.0,2,Ball Playing Defender,47.098481656593705,34.61532685774651,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Aerial,37,17,2.4654,1661.0,2,Ball Playing Defender,69.01369269338481,49.95462123303271,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Ball recovery,29,23,2.1945,1661.0,2,Ball Playing Defender,50.60662508362405,39.7991150633341,CB,Ball Playing Defender,3.23
+Demo Club Sur,Player_047,900047,CB,Turnover,12,3,0.7315,1661.0,2,Ball Playing Defender,23.230720817897453,47.22639677598928,CB,Ball Playing Defender,3.23
+Demo Club Interior,Player_048,900048,AMF,Pass,29,15,3.4543,951.0,2,Second Striker,38.8589902329645,46.883620525161916,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Long ball,9,4,1.041,951.0,2,Second Striker,39.831732278425655,20.22825887245091,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Wide ball,17,5,1.8454,951.0,2,Second Striker,63.9104053821635,26.53786368880655,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Through ball,33,16,3.8801,951.0,2,Second Striker,71.74939861841196,53.482123987014,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Progressive pass,15,6,1.7035,951.0,2,Second Striker,43.62815007246505,22.172344795686325,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Key pass,37,12,4.0694,951.0,2,Second Striker,72.65226761477773,88.882634315203,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Take on,26,19,3.3596,951.0,2,Second Striker,65.44262483040812,78.51951268563238,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Foul commit,6,8,0.9464,951.0,2,Second Striker,59.10060066188993,37.67289430210803,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Foul Won,24,7,2.6025,951.0,2,Second Striker,70.26856066339022,67.72134898968305,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Tackle,17,5,1.8454,951.0,2,Second Striker,15.049195264985613,38.76703221886274,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Defensive reading,14,4,1.5142,951.0,2,Second Striker,52.77802191593743,63.04683504990031,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Clearance,9,3,0.9937,951.0,2,Second Striker,84.64745335800335,18.178320371108782,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Shot,27,16,3.3123,951.0,2,Second Striker,81.47165793613055,67.94969850335062,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Aerial,5,11,0.9937,951.0,2,Second Striker,6.269847064401716,14.358918858431835,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Ball recovery,13,3,1.3722,951.0,2,Second Striker,58.50845365464674,15.686664162979604,AMF,Second Striker,15.41
+Demo Club Interior,Player_048,900048,AMF,Turnover,9,5,1.0883,951.0,2,Second Striker,22.90914483171349,36.90717122201863,AMF,Second Striker,15.41
+Demo Club Norte,Player_049,900049,DMF,Pass,36,22,3.0519,1386.0,2,Ball Winning Midfielder,77.15253781940677,95.23352604145065,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Long ball,29,13,2.3052,1386.0,2,Ball Winning Midfielder,57.310401713186195,73.17949784965211,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Wide ball,13,8,1.1039,1386.0,2,Ball Winning Midfielder,39.534497804142156,56.118570953395896,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Through ball,9,6,0.7792,1386.0,2,Ball Winning Midfielder,25.24259338973327,36.80533917927059,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Progressive pass,21,17,1.9156,1386.0,2,Ball Winning Midfielder,60.428679390920706,88.12679253886068,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Key pass,13,10,1.1688,1386.0,2,Ball Winning Midfielder,24.155769217035584,67.71028008955707,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Take on,12,2,0.8442,1386.0,2,Ball Winning Midfielder,27.701550578557622,61.42883377702445,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Foul commit,8,8,0.7792,1386.0,2,Ball Winning Midfielder,81.45843600790724,28.20141292701745,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Foul Won,16,4,1.1688,1386.0,2,Ball Winning Midfielder,56.39093918957564,64.64118123415275,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Tackle,31,11,2.3701,1386.0,2,Ball Winning Midfielder,76.41117765632978,71.69005093567999,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Defensive reading,43,15,3.2792,1386.0,2,Ball Winning Midfielder,39.452019868930336,62.26618676823987,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Clearance,11,12,1.1039,1386.0,2,Ball Winning Midfielder,29.667404437126038,67.33655044226524,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Shot,13,7,1.0714,1386.0,2,Ball Winning Midfielder,18.474841155900858,54.27857122268709,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Aerial,11,5,0.8766,1386.0,2,Ball Winning Midfielder,32.608076018361,54.02335557644299,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Ball recovery,31,25,2.8247,1386.0,2,Ball Winning Midfielder,74.16996170580448,77.42487680843804,DMF,Ball Winning Midfielder,0.82
+Demo Club Norte,Player_049,900049,DMF,Turnover,15,7,1.2013,1386.0,2,Ball Winning Midfielder,63.04042333209217,39.345320562227734,DMF,Ball Winning Midfielder,0.82
+Demo Club Capital,Player_050,900050,CF,Pass,20,13,0.7455,3199.0,2,Mobile Striker,50.97061754402081,67.14807327362716,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Long ball,9,5,0.3235,3199.0,2,Mobile Striker,54.24609986388464,49.08242508732186,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Wide ball,11,7,0.4079,3199.0,2,Mobile Striker,79.52035401446817,34.65069983780813,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Through ball,10,3,0.3235,3199.0,2,Mobile Striker,59.808576256948186,67.6741628065921,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Progressive pass,9,5,0.3235,3199.0,2,Mobile Striker,53.321306902824034,0.0,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Key pass,9,8,0.3657,3199.0,2,Mobile Striker,22.298482135884175,39.970477672987855,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Take on,20,4,0.6189,3199.0,2,Mobile Striker,45.76853175729334,59.87235454465583,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Foul commit,7,7,0.2954,3199.0,2,Mobile Striker,25.642796534152062,70.58433855510745,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Foul Won,27,18,1.0128,3199.0,2,Mobile Striker,56.687679721579656,30.500934824494873,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Tackle,12,11,0.4923,3199.0,2,Mobile Striker,27.82477376861242,48.71959929244714,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Defensive reading,15,5,0.4923,3199.0,2,Mobile Striker,66.31784344592813,72.84568884235287,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Clearance,13,8,0.4783,3199.0,2,Mobile Striker,33.775799195074335,22.733506051073547,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Shot,30,12,1.0128,3199.0,2,Mobile Striker,80.69615945139324,56.38933582584635,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Aerial,42,13,1.3645,3199.0,2,Mobile Striker,66.47812779859778,87.52919266270814,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Ball recovery,16,4,0.5064,3199.0,2,Mobile Striker,48.71560836599177,23.731586368542793,CF,Mobile Striker,12.46
+Demo Club Capital,Player_050,900050,CF,Turnover,29,11,0.9706,3199.0,2,Mobile Striker,100.0,92.39392354135833,CF,Mobile Striker,12.46
+Demo Club Mediterráneo,Player_051,900051,DMF,Pass,29,25,2.2554,1656.0,2,Ball Winning Midfielder,100.0,68.2263844632779,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Long ball,17,11,1.2228,1656.0,2,Ball Winning Midfielder,79.56655132740549,80.80783732518239,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Wide ball,9,3,0.5707,1656.0,2,Ball Winning Midfielder,39.911511667784055,39.18357979203565,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Through ball,10,2,0.5978,1656.0,2,Ball Winning Midfielder,54.867811982071885,24.948440230111146,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Progressive pass,24,12,1.6304,1656.0,2,Ball Winning Midfielder,85.80042007269039,70.927919202164,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Key pass,11,6,0.7609,1656.0,2,Ball Winning Midfielder,45.45160303347946,28.4083687082289,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Take on,11,3,0.6793,1656.0,2,Ball Winning Midfielder,70.11564803687128,53.428558619712405,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Foul commit,12,8,0.8696,1656.0,2,Ball Winning Midfielder,39.94428582462764,35.73703800578462,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Foul Won,16,3,0.9511,1656.0,2,Ball Winning Midfielder,27.316836243795706,23.59029422994495,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Tackle,25,16,1.7935,1656.0,2,Ball Winning Midfielder,77.42047015376242,95.2626708764579,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Defensive reading,29,18,2.0652,1656.0,2,Ball Winning Midfielder,84.09935346438215,48.37346949817983,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Clearance,11,9,0.8424,1656.0,2,Ball Winning Midfielder,25.17323743426485,40.470429242504885,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Shot,8,6,0.5978,1656.0,2,Ball Winning Midfielder,9.719368233917237,47.14416972738528,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Aerial,17,7,1.1141,1656.0,2,Ball Winning Midfielder,30.89650386949849,3.561442393479922,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Ball recovery,32,14,2.1196,1656.0,2,Ball Winning Midfielder,28.30147840426531,54.05891127214591,DMF,Ball Winning Midfielder,5.41
+Demo Club Mediterráneo,Player_051,900051,DMF,Turnover,9,8,0.7065,1656.0,2,Ball Winning Midfielder,44.196800133296755,38.34217821219572,DMF,Ball Winning Midfielder,5.41
+Demo Club Atlántico,Player_052,900052,CB,Pass,21,8,1.1404,1973.0,3,Sweeper,69.65821962454831,29.57225909302592,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Long ball,15,7,0.8439,1973.0,3,Sweeper,56.163215653832026,0.0,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Wide ball,12,6,0.6842,1973.0,3,Sweeper,60.67495145582945,41.889784074989386,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Through ball,13,4,0.6842,1973.0,3,Sweeper,52.10329403555078,20.15442680380338,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Progressive pass,15,7,0.8439,1973.0,3,Sweeper,12.1855567456089,80.86100740387937,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Key pass,11,7,0.6614,1973.0,3,Sweeper,57.34101038636951,43.2738249025094,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Take on,9,8,0.593,1973.0,3,Sweeper,58.4262012177401,39.896592433084926,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Foul commit,17,7,0.9351,1973.0,3,Sweeper,42.66833936863177,71.66925187878928,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Foul Won,15,6,0.8211,1973.0,3,Sweeper,59.98872219048478,52.25678646165874,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Tackle,26,16,1.5509,1973.0,3,Sweeper,72.52220059107329,59.311198117931944,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Defensive reading,38,29,2.3948,1973.0,3,Sweeper,100.0,86.04562303068822,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Clearance,50,16,2.6457,1973.0,3,Sweeper,100.0,88.99156751224648,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Shot,7,10,0.5474,1973.0,3,Sweeper,47.450988079202894,91.53571428702537,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Aerial,37,16,2.0527,1973.0,3,Sweeper,71.45013056728446,86.79899886429689,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Ball recovery,24,13,1.3913,1973.0,3,Sweeper,74.39348443538076,57.73279437818245,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,CB,Turnover,8,3,0.4334,1973.0,3,Sweeper,18.053672893222775,19.355974833244098,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Pass,27,15,1.5737,1973.0,1,Deep Lying Playmaker,61.65372736065151,46.28505614533543,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Long ball,24,22,1.5966,1973.0,1,Deep Lying Playmaker,59.78318822916596,34.06283734498845,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Wide ball,15,3,0.7527,1973.0,1,Deep Lying Playmaker,63.274050734675484,29.948005281129795,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Through ball,14,10,0.8667,1973.0,1,Deep Lying Playmaker,27.308466908769113,53.64846436371823,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Progressive pass,26,15,1.5281,1973.0,1,Deep Lying Playmaker,48.262013157691115,83.33625583744104,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Key pass,14,6,0.7755,1973.0,1,Deep Lying Playmaker,36.52195462802607,27.96499081656321,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Take on,18,14,1.1404,1973.0,1,Deep Lying Playmaker,48.560343048117666,42.85714212789362,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Foul commit,7,6,0.4562,1973.0,1,Deep Lying Playmaker,49.91743139494408,16.396600203270204,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Foul Won,17,4,0.8667,1973.0,1,Deep Lying Playmaker,37.805727464219224,45.40644693186112,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Tackle,28,19,1.7106,1973.0,1,Deep Lying Playmaker,83.02566180430767,62.34199201642068,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Defensive reading,42,23,2.4404,1973.0,1,Deep Lying Playmaker,69.00825356854548,56.91412286473113,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Clearance,15,6,0.8211,1973.0,1,Deep Lying Playmaker,66.68499152019496,24.080072785284667,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Shot,12,5,0.6614,1973.0,1,Deep Lying Playmaker,24.911721008709495,24.98075329098132,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Aerial,13,7,0.7527,1973.0,1,Deep Lying Playmaker,52.475794427496055,18.545197903824807,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Ball recovery,39,17,2.1668,1973.0,1,Deep Lying Playmaker,68.21304089018382,74.6458926087623,CB,Sweeper,4.17
+Demo Club Atlántico,Player_052,900052,DMF,Turnover,6,6,0.4105,1973.0,1,Deep Lying Playmaker,41.710046958014274,21.605831509211367,CB,Sweeper,4.17
+Demo Club Sur,Player_053,900053,FB,Pass,26,10,3.1173,895.0,3,Full Back,29.835757550506347,79.87396882127115,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Long ball,18,9,2.2626,895.0,3,Full Back,10.423340456371687,46.90381656504704,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Wide ball,31,25,4.3743,895.0,3,Full Back,65.73853531148106,70.8038090358258,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Through ball,16,4,1.8101,895.0,3,Full Back,37.67636939555874,50.267810839800354,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Progressive pass,35,16,4.324,895.0,3,Full Back,40.545398818330604,84.72335256669746,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Key pass,15,2,1.6089,895.0,3,Full Back,70.2377086890192,60.68585223988702,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Take on,23,15,3.067,895.0,3,Full Back,64.87117067456057,31.75114171019023,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Foul commit,11,8,1.5084,895.0,3,Full Back,34.59862423326634,47.66784592839244,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Foul Won,15,2,1.6089,895.0,3,Full Back,17.68398465842349,29.664338239308965,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Tackle,34,12,4.0223,895.0,3,Full Back,77.73630506050871,48.77849584562256,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Defensive reading,15,13,2.162,895.0,3,Full Back,54.94141934205833,71.77113114925301,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Clearance,12,3,1.3575,895.0,3,Full Back,52.765900103688615,21.01037493237628,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Shot,8,2,0.905,895.0,3,Full Back,50.85862961863376,30.23784029595172,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Aerial,17,7,2.0615,895.0,3,Full Back,35.07418045970721,0.0,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Ball recovery,21,15,2.8659,895.0,3,Full Back,80.64607214632231,47.234315582464625,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,FB,Turnover,20,5,2.2626,895.0,3,Full Back,37.948102714493935,27.78536847582067,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Pass,35,21,4.5754,895.0,1,Deep Lying Playmaker,91.61509601397059,81.71871585148145,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Long ball,32,11,3.7709,895.0,1,Deep Lying Playmaker,67.09355859294433,59.93498970629544,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Wide ball,5,1,0.5531,895.0,1,Deep Lying Playmaker,50.107636540993276,55.297902203195605,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Through ball,12,7,1.5587,895.0,1,Deep Lying Playmaker,30.970091504576565,38.007823645222004,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Progressive pass,16,10,2.1117,895.0,1,Deep Lying Playmaker,71.87024317172944,65.39231169217364,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Key pass,15,7,1.8603,895.0,1,Deep Lying Playmaker,0.0,60.90962108045538,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Take on,7,12,1.3073,895.0,1,Deep Lying Playmaker,46.1226803245325,3.37971347774986,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Foul commit,11,9,1.5587,895.0,1,Deep Lying Playmaker,55.43576701816421,23.50318846176596,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Foul Won,8,9,1.257,895.0,1,Deep Lying Playmaker,15.551394195284267,23.199467288226007,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Tackle,30,10,3.5196,895.0,1,Deep Lying Playmaker,48.380265595575906,50.348530778011586,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Defensive reading,28,22,3.9218,895.0,1,Deep Lying Playmaker,81.35763590617029,89.47615052020986,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Clearance,15,12,2.1117,895.0,1,Deep Lying Playmaker,10.949948022146618,68.47191317916842,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Shot,12,3,1.3575,895.0,1,Deep Lying Playmaker,42.5488256754432,40.61577953646193,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Aerial,5,5,0.7542,895.0,1,Deep Lying Playmaker,36.51561721694191,39.509776183426816,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Ball recovery,44,10,4.9274,895.0,1,Deep Lying Playmaker,26.549055840840687,100.0,FB,Full Back,16.21
+Demo Club Sur,Player_053,900053,DMF,Turnover,6,4,0.8045,895.0,1,Deep Lying Playmaker,45.02827677456878,70.63598847518459,FB,Full Back,16.21
+Demo Club Interior,Player_054,900054,CMF,Pass,29,14,2.1274,1523.0,1,Playmaker,92.00680261749228,89.05646039150642,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Long ball,12,7,0.916,1523.0,1,Playmaker,62.793839298415236,56.43596081091064,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Wide ball,7,7,0.6205,1523.0,1,Playmaker,31.86340909786467,52.599382588233496,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Through ball,15,12,1.241,1523.0,1,Playmaker,36.413299067305154,67.78395184377102,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Progressive pass,34,15,2.4524,1523.0,1,Playmaker,54.50582159474393,81.13681616738683,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Key pass,29,13,2.0978,1523.0,1,Playmaker,85.43629632005178,76.08081155090149,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Take on,15,2,0.9455,1523.0,1,Playmaker,34.61035998902039,46.1538129699383,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Foul commit,13,3,0.8569,1523.0,1,Playmaker,29.56674935252034,42.72277842381542,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Foul Won,25,12,1.8319,1523.0,1,Playmaker,68.22480517342787,95.15967694870488,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Tackle,13,9,1.0341,1523.0,1,Playmaker,27.781129070863276,54.844999327864954,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Defensive reading,17,11,1.3296,1523.0,1,Playmaker,42.13408776186327,21.574877228777204,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Clearance,12,9,0.975,1523.0,1,Playmaker,23.233903669279474,16.698135825173576,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Shot,10,8,0.8273,1523.0,1,Playmaker,56.759974123896086,44.6003126739045,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Aerial,9,6,0.7091,1523.0,1,Playmaker,12.90893994303925,31.703806271642485,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Ball recovery,15,12,1.241,1523.0,1,Playmaker,34.68829369088737,57.269546294846016,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,CMF,Turnover,9,7,0.7387,1523.0,1,Playmaker,36.12746828600911,23.069102217272004,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Pass,41,15,2.8661,1523.0,1,Deep Lying Playmaker,82.92546686468796,82.16910893944652,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Long ball,37,11,2.5115,1523.0,1,Deep Lying Playmaker,48.51777801200478,66.28751410279028,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Wide ball,11,5,0.7978,1523.0,1,Deep Lying Playmaker,57.94306348543491,34.35576018896293,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Through ball,9,9,0.7978,1523.0,1,Deep Lying Playmaker,24.00861047354139,56.91981570645739,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Progressive pass,26,18,2.0683,1523.0,1,Deep Lying Playmaker,70.52293821037186,47.95940747300164,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Key pass,12,10,1.0046,1523.0,1,Deep Lying Playmaker,23.49854765132404,54.37199617628344,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Take on,17,4,1.1228,1523.0,1,Deep Lying Playmaker,27.444139374433465,44.317537143596184,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Foul commit,20,6,1.3592,1523.0,1,Deep Lying Playmaker,40.34231250110451,50.920311974982035,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Foul Won,17,3,1.0932,1523.0,1,Deep Lying Playmaker,31.30651307446788,60.049395445548704,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Tackle,46,15,3.1615,1523.0,1,Deep Lying Playmaker,85.23058587910339,63.98163489768898,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Defensive reading,36,24,2.8365,1523.0,1,Deep Lying Playmaker,47.94307601951809,77.92761138807901,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Clearance,9,6,0.7091,1523.0,1,Deep Lying Playmaker,56.34962399633797,40.871252375436534,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Shot,8,11,0.7978,1523.0,1,Deep Lying Playmaker,53.15727596355306,19.8392022415633,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Aerial,9,8,0.7682,1523.0,1,Deep Lying Playmaker,50.46158601819249,20.62793281178419,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Ball recovery,44,23,3.2797,1523.0,1,Deep Lying Playmaker,85.86689812967886,89.87018767561722,CMF,Playmaker,3.26
+Demo Club Interior,Player_054,900054,DMF,Turnover,8,6,0.65,1523.0,1,Deep Lying Playmaker,12.570619743314825,34.46138112133996,CMF,Playmaker,3.26
+Demo Club Norte,Player_055,900055,FB,Pass,23,13,1.0134,2620.0,1,Wing Back,77.35779481082803,67.17236671246309,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Long ball,13,6,0.5496,2620.0,1,Wing Back,48.52255911600801,22.94437442381799,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Wide ball,41,21,1.7691,2620.0,1,Wing Back,100.0,62.4831257989143,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Through ball,18,6,0.7214,2620.0,1,Wing Back,37.43386185323422,18.90352159285811,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Progressive pass,31,17,1.3569,2620.0,1,Wing Back,51.54812888797231,48.720464228564595,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Key pass,7,5,0.3263,2620.0,1,Wing Back,36.84813540267108,44.390417022693164,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Take on,28,12,1.1679,2620.0,1,Wing Back,19.60575872106932,34.511610048161884,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Foul commit,10,4,0.4122,2620.0,1,Wing Back,40.83047359314573,15.9714382972405,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Foul Won,15,9,0.6698,2620.0,1,Wing Back,22.298896427290416,37.76539405389924,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Tackle,31,14,1.3053,2620.0,1,Wing Back,96.30770492216858,62.35679445755434,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Defensive reading,20,8,0.8244,2620.0,1,Wing Back,23.05182275623601,38.7129068858593,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Clearance,12,8,0.5496,2620.0,1,Wing Back,66.02191724457316,0.0,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Shot,10,6,0.4466,2620.0,1,Wing Back,72.15316760955372,32.576973880627115,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Aerial,20,5,0.7729,2620.0,1,Wing Back,60.364220915196775,46.50205714938885,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Ball recovery,23,17,1.0821,2620.0,1,Wing Back,53.992355654450584,38.870095012998334,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,FB,Turnover,12,6,0.5153,2620.0,1,Wing Back,45.62863130222784,31.474020949801297,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Pass,16,5,0.6355,2620.0,2,Wide Playmaker,47.56108409938001,45.63346779638339,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Long ball,10,5,0.4294,2620.0,2,Wide Playmaker,46.283106147068104,68.20917632693222,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Wide ball,36,20,1.5802,2620.0,2,Wide Playmaker,50.37308495279649,100.0,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Through ball,14,3,0.5324,2620.0,2,Wide Playmaker,23.074547087333144,53.61536586126822,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Progressive pass,40,6,1.4771,2620.0,2,Wide Playmaker,77.00110479306692,57.04787070464162,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Key pass,21,9,0.876,2620.0,2,Wide Playmaker,58.537025466502946,65.48412692951375,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Take on,35,14,1.4427,2620.0,2,Wide Playmaker,76.395656488393,89.33883024577767,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Foul commit,12,2,0.4466,2620.0,2,Wide Playmaker,16.99998407848991,10.703334871775454,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Foul Won,18,9,0.7729,2620.0,2,Wide Playmaker,65.08915568546405,95.40944824795783,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Tackle,12,10,0.584,2620.0,2,Wide Playmaker,34.49474155774044,36.15835261554179,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Defensive reading,13,6,0.5496,2620.0,2,Wide Playmaker,73.59191327655785,63.548227274547514,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Clearance,13,5,0.5324,2620.0,2,Wide Playmaker,49.43645533289052,24.060494843616326,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Shot,35,16,1.4771,2620.0,2,Wide Playmaker,60.44394160862974,69.17531067368137,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Aerial,11,8,0.5153,2620.0,2,Wide Playmaker,29.20473425163356,27.858905891468194,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Ball recovery,12,3,0.4637,2620.0,2,Wide Playmaker,25.39715999543249,58.42179632260778,FB,Wing Back,1.53
+Demo Club Norte,Player_055,900055,WF,Turnover,15,3,0.5668,2620.0,2,Wide Playmaker,51.78687876866853,41.918608949777415,FB,Wing Back,1.53
+Demo Club Capital,Player_056,900056,CMF,Pass,29,14,1.1028,2938.0,1,Playmaker,54.540635446461714,74.57936431727025,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Long ball,15,10,0.6127,2938.0,1,Playmaker,42.214609083997985,17.371347052629304,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Wide ball,16,8,0.6127,2938.0,1,Playmaker,25.74512512446049,2.594141043615238,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Through ball,23,10,0.8577,2938.0,1,Playmaker,100.0,49.803012309282025,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Progressive pass,28,16,1.1028,2938.0,1,Playmaker,62.849428755293495,50.70084734787365,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Key pass,23,13,0.9037,2938.0,1,Playmaker,97.67277826013202,72.16262143058435,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Take on,7,6,0.3063,2938.0,1,Playmaker,65.77315203171105,41.27654010251081,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Foul commit,11,6,0.4289,2938.0,1,Playmaker,0.0,51.838757427179715,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Foul Won,19,10,0.7352,2938.0,1,Playmaker,94.89305944335223,34.80023127918412,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Tackle,9,6,0.3676,2938.0,1,Playmaker,35.88354876141221,20.0840638772883,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Defensive reading,9,5,0.3523,2938.0,1,Playmaker,20.248044371328827,35.988862150402426,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Clearance,20,12,0.7965,2938.0,1,Playmaker,40.935674479855514,37.26629969095663,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Shot,11,7,0.4442,2938.0,1,Playmaker,39.92455914131682,0.0,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Aerial,7,2,0.2451,2938.0,1,Playmaker,50.225236094864265,28.063110144986815,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Ball recovery,19,8,0.7046,2938.0,1,Playmaker,67.25441207136518,51.45734182300789,CMF,Playmaker,4.27
+Demo Club Capital,Player_056,900056,CMF,Turnover,8,6,0.337,2938.0,1,Playmaker,56.664935275124805,34.55710254954343,CMF,Playmaker,4.27
+Demo Club Mediterráneo,Player_057,900057,WF,Pass,8,6,0.5413,1829.0,1,Inside Forward,48.611659574102816,33.276039939945974,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Long ball,13,3,0.7135,1829.0,1,Inside Forward,35.636885866440885,37.996712469898945,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Wide ball,40,19,2.4358,1829.0,1,Inside Forward,97.38320056839078,100.0,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Through ball,11,8,0.7381,1829.0,1,Inside Forward,62.34381377707422,64.15878373846354,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Progressive pass,33,15,1.9929,1829.0,1,Inside Forward,28.651060397318517,78.92729414316496,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Key pass,31,17,1.9437,1829.0,1,Inside Forward,96.36733126208003,69.26327235395523,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Take on,44,16,2.5588,1829.0,1,Inside Forward,91.44131762876638,100.0,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Foul commit,12,4,0.6889,1829.0,1,Inside Forward,27.612991974737763,34.793039093636914,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Foul Won,22,11,1.3532,1829.0,1,Inside Forward,68.60478940690224,75.89186206145426,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Tackle,14,7,0.8611,1829.0,1,Inside Forward,62.77394029274608,19.047650878032826,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Defensive reading,9,3,0.5167,1829.0,1,Inside Forward,0.0,30.866567937487282,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Clearance,7,2,0.3937,1829.0,1,Inside Forward,31.710590565997286,66.82136221347255,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Shot,25,19,1.6976,1829.0,1,Inside Forward,34.08120511436699,45.21190716728279,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Aerial,11,4,0.6397,1829.0,1,Inside Forward,52.30760775022,63.641651173252775,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Ball recovery,10,5,0.6151,1829.0,1,Inside Forward,41.16564498599741,18.81862264295779,WF,Inside Forward,5.95
+Demo Club Mediterráneo,Player_057,900057,WF,Turnover,11,4,0.6397,1829.0,1,Inside Forward,31.76092424356554,37.37176002368861,WF,Inside Forward,5.95
+Demo Club Atlántico,Player_058,900058,FB,Pass,20,8,0.985,2193.0,1,Wing Back,68.59606558128202,60.323579513307784,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Long ball,11,7,0.5951,2193.0,1,Wing Back,42.85957819073518,34.709495198945035,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Wide ball,41,18,2.052,2193.0,1,Wing Back,100.0,82.01305973023157,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Through ball,5,5,0.3078,2193.0,1,Wing Back,28.88229594229479,54.72291702012273,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Progressive pass,30,15,1.539,2193.0,1,Wing Back,46.250160838786954,100.0,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Key pass,14,5,0.6772,2193.0,1,Wing Back,63.08675930682535,54.46166651846785,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Take on,19,11,1.0055,2193.0,1,Wing Back,75.07221925152568,53.06243829351441,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Foul commit,7,8,0.4514,2193.0,1,Wing Back,16.82512506482723,43.133346773901934,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Foul Won,12,9,0.6772,2193.0,1,Wing Back,25.842105229683767,44.12083878736672,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Tackle,34,14,1.6826,2193.0,1,Wing Back,59.27115646035999,68.37721362546513,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Defensive reading,18,9,0.9234,2193.0,1,Wing Back,71.11589636603408,60.43543574140778,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Clearance,8,3,0.3899,2193.0,1,Wing Back,52.90712331870199,36.81631319547713,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Shot,10,5,0.513,2193.0,1,Wing Back,34.572086154322456,72.80263029429528,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Aerial,11,2,0.4925,2193.0,1,Wing Back,52.523790426587745,36.37886452866676,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Ball recovery,25,16,1.3543,2193.0,1,Wing Back,51.791137479082806,66.89987632179754,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,FB,Turnover,15,5,0.7182,2193.0,1,Wing Back,26.613550508565147,10.474866326219981,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Pass,32,15,1.6211,2193.0,1,Deep Lying Playmaker,70.98492790059501,91.56363279185511,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Long ball,22,15,1.2107,2193.0,1,Deep Lying Playmaker,62.01712126051561,70.92985820344538,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Wide ball,11,4,0.5335,2193.0,1,Deep Lying Playmaker,38.71778533455035,74.99224896667747,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Through ball,12,9,0.6772,2193.0,1,Deep Lying Playmaker,53.75672594677089,33.42519775542051,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Progressive pass,31,11,1.4979,2193.0,1,Deep Lying Playmaker,61.41452485786443,58.371854322199866,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Key pass,10,5,0.513,2193.0,1,Deep Lying Playmaker,34.62711178148896,66.21310148859088,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Take on,10,5,0.513,2193.0,1,Deep Lying Playmaker,57.58398578438312,53.4033939741842,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Foul commit,13,3,0.5951,2193.0,1,Deep Lying Playmaker,46.9760225305342,29.736003160807723,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Foul Won,8,9,0.513,2193.0,1,Deep Lying Playmaker,14.233858044164641,40.07594950496681,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Tackle,30,22,1.6826,2193.0,1,Deep Lying Playmaker,72.4552813860265,28.793571732682366,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Defensive reading,39,13,1.8673,2193.0,1,Deep Lying Playmaker,95.84011271156508,70.06783736459526,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Clearance,18,9,0.9234,2193.0,1,Deep Lying Playmaker,46.9313484520609,69.88353631771717,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Shot,16,9,0.8413,2193.0,1,Deep Lying Playmaker,26.003592298649103,27.341411889234937,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Aerial,12,5,0.5951,2193.0,1,Deep Lying Playmaker,27.967002100362983,16.299903588819593,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Ball recovery,41,12,1.9289,2193.0,1,Deep Lying Playmaker,88.9749378129519,98.86315926907159,FB,Wing Back,0.46
+Demo Club Atlántico,Player_058,900058,DMF,Turnover,14,1,0.5951,2193.0,1,Deep Lying Playmaker,72.04616216505237,35.0968243133941,FB,Wing Back,0.46
+Demo Club Sur,Player_059,900059,AMF,Pass,24,13,1.9209,1429.0,2,Second Striker,53.81065979146474,50.65700285922771,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Long ball,10,6,0.8188,1429.0,2,Second Striker,27.63817345790305,22.440483402784977,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Wide ball,10,6,0.8188,1429.0,2,Second Striker,74.71480047859495,69.84357351642413,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Through ball,37,11,2.6767,1429.0,2,Second Striker,75.33301800323362,65.49753478959808,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Progressive pass,9,8,0.8188,1429.0,2,Second Striker,1.6832568299922812,47.64703164484655,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Key pass,28,16,2.2673,1429.0,2,Second Striker,96.33182651568644,48.30835024852108,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Take on,13,17,1.3541,1429.0,2,Second Striker,74.2120743667979,62.849920000330584,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Foul commit,14,5,1.0392,1429.0,2,Second Striker,74.10876679314406,46.45439625288336,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Foul Won,22,12,1.7635,1429.0,2,Second Striker,46.739466773335224,63.35141745319582,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Tackle,12,4,0.8817,1429.0,2,Second Striker,32.84745989703868,57.95517386577346,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Defensive reading,11,7,0.9132,1429.0,2,Second Striker,24.347323994120554,41.288373221854584,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Clearance,13,7,1.0392,1429.0,2,Second Striker,31.475913099484018,46.331018398822565,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Shot,28,12,2.1414,1429.0,2,Second Striker,76.19272869592089,41.57547791635855,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Aerial,10,7,0.8502,1429.0,2,Second Striker,61.09422536344358,26.00861858879871,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Ball recovery,10,7,0.8502,1429.0,2,Second Striker,50.83127476102768,46.41113462511186,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,AMF,Turnover,10,5,0.7873,1429.0,2,Second Striker,29.397401590236257,41.44405907448622,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Pass,15,8,1.1966,1429.0,2,Mobile Striker,54.966772283788245,44.27855467527813,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Long ball,16,5,1.1652,1429.0,2,Mobile Striker,47.99278512384687,48.376601108919054,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Wide ball,9,3,0.6613,1429.0,2,Mobile Striker,39.609578249144036,64.11857674048278,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Through ball,5,5,0.4724,1429.0,2,Mobile Striker,47.92866897498294,57.559470427818184,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Progressive pass,19,6,1.3856,1429.0,2,Mobile Striker,40.918703118858986,43.35353324007371,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Key pass,7,2,0.5038,1429.0,2,Mobile Striker,67.23566872384396,77.01361269179506,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Take on,21,11,1.669,1429.0,2,Mobile Striker,23.111369063377374,45.103816603231664,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Foul commit,11,7,0.9132,1429.0,2,Mobile Striker,59.29150566099785,36.37305124539946,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Foul Won,32,14,2.4563,1429.0,2,Mobile Striker,74.79084008987917,58.08657674590467,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Tackle,8,2,0.5668,1429.0,2,Mobile Striker,42.835502310543376,58.458018460354026,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Defensive reading,10,8,0.8817,1429.0,2,Mobile Striker,20.215650525653682,32.817480294385874,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Clearance,13,6,1.0077,1429.0,2,Mobile Striker,36.37544260095637,37.675764580860296,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Shot,44,10,3.0861,1429.0,2,Mobile Striker,71.96781144613823,100.0,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Aerial,26,19,2.2358,1429.0,2,Mobile Striker,100.0,76.05170930265568,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Ball recovery,7,9,0.7243,1429.0,2,Mobile Striker,28.453650801908807,21.118967129502863,AMF,Second Striker,43.03
+Demo Club Sur,Player_059,900059,CF,Turnover,25,18,2.1414,1429.0,2,Mobile Striker,68.47798115818027,15.7673152087889,AMF,Second Striker,43.03
+Demo Club Interior,Player_060,900060,CF,Pass,25,8,0.9016,2895.0,2,Mobile Striker,29.98253705920954,59.67655560834422,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Long ball,14,3,0.4819,2895.0,2,Mobile Striker,46.96756629640119,69.06666120227823,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Wide ball,10,8,0.4352,2895.0,2,Mobile Striker,42.69460578839376,28.517432102427474,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Through ball,10,6,0.4041,2895.0,2,Mobile Striker,93.10660078168098,12.421154367165098,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Progressive pass,10,5,0.3886,2895.0,2,Mobile Striker,40.577531765349256,35.96300840884925,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Key pass,9,7,0.3886,2895.0,2,Mobile Striker,66.09069101168004,34.27003452151877,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Take on,20,6,0.715,2895.0,2,Mobile Striker,57.841745052235304,76.16910135204144,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Foul commit,8,8,0.3731,2895.0,2,Mobile Striker,42.370452339219106,100.0,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Foul Won,22,18,0.9637,2895.0,2,Mobile Striker,83.48664348861183,72.76824505233364,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Tackle,8,8,0.3731,2895.0,2,Mobile Striker,29.013594844035026,81.96923033640233,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Defensive reading,17,8,0.6528,2895.0,2,Mobile Striker,67.53436448110793,29.570091142106772,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Clearance,14,13,0.6373,2895.0,2,Mobile Striker,32.89121788570266,43.37061315270334,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Shot,28,23,1.228,2895.0,2,Mobile Striker,98.25972755024627,51.69409102677292,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Aerial,29,15,1.1347,2895.0,2,Mobile Striker,92.95378488734212,56.24006715620282,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Ball recovery,11,6,0.4352,2895.0,2,Mobile Striker,28.710871761113978,59.721969154289354,CF,Mobile Striker,9.25
+Demo Club Interior,Player_060,900060,CF,Turnover,19,16,0.8394,2895.0,2,Mobile Striker,68.82492617626414,61.44518135547722,CF,Mobile Striker,9.25

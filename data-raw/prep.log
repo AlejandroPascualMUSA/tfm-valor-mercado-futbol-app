@@ -1,0 +1,19 @@
+/mnt/data/tfm_shiny_app_final/data-raw/prepare_app_data.py:300: RuntimeWarning: invalid value encountered in divide
+  Xs = np.where(sd > 0, (X - mu) / sd, 0)
+/mnt/data/tfm_shiny_app_final/data-raw/prepare_app_data.py:300: RuntimeWarning: invalid value encountered in divide
+  Xs = np.where(sd > 0, (X - mu) / sd, 0)
+market_predictions.csv: (391, 18)
+metricas_calibracion_todas.csv: (15, 16)
+comparacion_final_3_modelos.csv: (9, 18)
+shap_importance.csv: (151, 3)
+players_master.csv: (391, 171)
+roles_pca.csv: (754, 14)
+role_summary.csv: (19, 11)
+event_percentiles.csv: (14326, 16)
+role_pca_loadings.csv: (448, 5)
+physical_match.csv: (6746, 17)
+injuries_long.csv: (3206, 11)
+minutes_long.csv: (13271, 5)
+calibration_deciles.csv: (10, 7)
+model_features.csv: (391, 94)
+Preparación terminada: /mnt/data/tfm_shiny_app_final/data/app

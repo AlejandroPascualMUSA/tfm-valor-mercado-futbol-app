@@ -1,0 +1,82 @@
+player_name,player_id,team,position,cluster,role,PC1,PC2,interpretation,event_count,event_share,market_value_mill,team_group_model,role_position
+Player_001,900001,Demo Club Norte,AMF,1,Advanced Playmaker,-0.842,-1.5595,"Llegador, Asistente",460,0.6892,16.8,champions,AMF - Advanced Playmaker
+Player_001,900001,Demo Club Norte,CF,3,Target Man,3.3722,4.1346,"Asociativo, Técnico",271,0.3426,16.8,champions,CF - Target Man
+Player_002,900002,Demo Club Capital,CMF,2,Holding Midfielder,1.5253,-3.1454,"Creador, Vertical",436,0.2959,6.04,europa,CMF - Holding Midfielder
+Player_002,900002,Demo Club Capital,DMF,1,Deep Lying Playmaker,-0.5998,1.4662,"Organizador, Presionante",603,0.6302,6.04,europa,DMF - Deep Lying Playmaker
+Player_003,900003,Demo Club Mediterráneo,CMF,2,Holding Midfielder,0.1235,1.1771,"Creador, Vertical",810,0.4515,7.46,media_tabla,CMF - Holding Midfielder
+Player_004,900004,Demo Club Atlántico,CF,1,Poacher,-2.4638,-0.3948,"Asociativo, Técnico",392,0.4166,2.89,baja_tabla,CF - Poacher
+Player_004,900004,Demo Club Atlántico,WF,1,Inside Forward,1.5194,-0.291,"Interior, Desbordador",417,0.1779,2.89,baja_tabla,WF - Inside Forward
+Player_005,900005,Demo Club Sur,WF,3,Winger,-1.1327,-0.3508,"Interior, Desbordador",767,0.3624,9.63,descenso,WF - Winger
+Player_006,900006,Demo Club Interior,DMF,1,Deep Lying Playmaker,1.3109,-2.7838,"Organizador, Presionante",309,0.4001,20.24,champions,DMF - Deep Lying Playmaker
+Player_007,900007,Demo Club Norte,WF,1,Inside Forward,-4.1908,-0.1694,"Interior, Desbordador",688,0.922,26.27,europa,WF - Inside Forward
+Player_008,900008,Demo Club Capital,AMF,2,Second Striker,-0.3703,-0.4552,"Llegador, Asistente",857,0.776,9.48,media_tabla,AMF - Second Striker
+Player_009,900009,Demo Club Mediterráneo,CMF,3,Box-to-box Midfielder,-0.438,-0.7252,"Creador, Vertical",461,0.6957,1.0,baja_tabla,CMF - Box-to-box Midfielder
+Player_009,900009,Demo Club Mediterráneo,AMF,1,Advanced Playmaker,-0.5973,-0.0517,"Llegador, Asistente",286,0.9109,1.0,baja_tabla,AMF - Advanced Playmaker
+Player_010,900010,Demo Club Atlántico,WF,3,Winger,0.165,0.0792,"Interior, Desbordador",443,0.9344,8.16,descenso,WF - Winger
+Player_011,900011,Demo Club Sur,CB,3,Sweeper,0.6112,0.2538,"Defender, Controlador",639,0.3504,7.5,champions,CB - Sweeper
+Player_012,900012,Demo Club Interior,CB,3,Sweeper,1.0091,-2.3317,"Defender, Controlador",173,0.4322,15.71,europa,CB - Sweeper
+Player_013,900013,Demo Club Norte,CB,1,Stopper,-3.7181,-0.1271,"Defender, Controlador",158,0.7315,1.89,media_tabla,CB - Stopper
+Player_014,900014,Demo Club Capital,FB,1,Wing Back,-3.0189,3.7319,"Ofensivo, Exterior",120,0.1555,2.54,baja_tabla,FB - Wing Back
+Player_015,900015,Demo Club Mediterráneo,CMF,1,Playmaker,-1.7531,0.327,"Creador, Vertical",372,0.3459,2.66,descenso,CMF - Playmaker
+Player_016,900016,Demo Club Atlántico,CF,3,Target Man,0.9025,3.072,"Asociativo, Técnico",811,0.6072,34.09,champions,CF - Target Man
+Player_017,900017,Demo Club Sur,FB,2,Inverted Wing Back,2.6822,-2.2443,"Ofensivo, Exterior",245,0.5542,13.51,europa,FB - Inverted Wing Back
+Player_018,900018,Demo Club Interior,CMF,3,Box-to-box Midfielder,1.3612,-2.022,"Creador, Vertical",265,0.605,8.32,media_tabla,CMF - Box-to-box Midfielder
+Player_018,900018,Demo Club Interior,AMF,2,Second Striker,0.9746,-2.7654,"Llegador, Asistente",233,0.3961,8.32,media_tabla,AMF - Second Striker
+Player_019,900019,Demo Club Norte,WF,1,Inside Forward,-1.9192,0.9799,"Interior, Desbordador",178,0.9046,13.48,baja_tabla,WF - Inside Forward
+Player_020,900020,Demo Club Capital,FB,3,Full Back,-0.6125,2.2106,"Ofensivo, Exterior",753,0.4524,25.25,descenso,FB - Full Back
+Player_020,900020,Demo Club Capital,DMF,2,Ball Winning Midfielder,-1.0372,-0.374,"Organizador, Presionante",297,0.8917,25.25,descenso,DMF - Ball Winning Midfielder
+Player_021,900021,Demo Club Mediterráneo,CB,2,Ball Playing Defender,2.912,1.4226,"Defender, Controlador",155,0.9015,2.46,champions,CB - Ball Playing Defender
+Player_022,900022,Demo Club Atlántico,FB,2,Inverted Wing Back,1.7314,-1.2283,"Ofensivo, Exterior",472,0.2093,1.39,europa,FB - Inverted Wing Back
+Player_023,900023,Demo Club Sur,AMF,1,Advanced Playmaker,-3.3875,-0.2716,"Llegador, Asistente",194,0.3559,2.69,media_tabla,AMF - Advanced Playmaker
+Player_024,900024,Demo Club Interior,FB,3,Full Back,0.5541,1.745,"Ofensivo, Exterior",463,0.2943,1.25,baja_tabla,FB - Full Back
+Player_025,900025,Demo Club Norte,CF,3,Target Man,1.396,-3.2509,"Asociativo, Técnico",191,0.5021,1.57,descenso,CF - Target Man
+Player_026,900026,Demo Club Capital,CB,1,Stopper,-1.9533,-0.7943,"Defender, Controlador",536,0.7102,9.83,champions,CB - Stopper
+Player_026,900026,Demo Club Capital,DMF,1,Deep Lying Playmaker,-2.1891,-1.9397,"Organizador, Presionante",607,0.921,9.83,champions,DMF - Deep Lying Playmaker
+Player_027,900027,Demo Club Mediterráneo,CF,3,Target Man,0.673,2.9494,"Asociativo, Técnico",315,0.2548,16.47,europa,CF - Target Man
+Player_028,900028,Demo Club Atlántico,CB,1,Stopper,-1.2626,-2.2381,"Defender, Controlador",699,0.3995,4.45,media_tabla,CB - Stopper
+Player_028,900028,Demo Club Atlántico,FB,3,Full Back,2.6295,1.3147,"Ofensivo, Exterior",625,0.6017,4.45,media_tabla,FB - Full Back
+Player_029,900029,Demo Club Sur,CF,1,Poacher,-0.399,1.2655,"Asociativo, Técnico",532,0.899,2.73,baja_tabla,CF - Poacher
+Player_030,900030,Demo Club Interior,CB,3,Sweeper,-1.0352,-0.8276,"Defender, Controlador",702,0.6933,3.79,descenso,CB - Sweeper
+Player_031,900031,Demo Club Norte,DMF,1,Deep Lying Playmaker,-2.5428,0.5986,"Organizador, Presionante",815,0.8423,23.49,champions,DMF - Deep Lying Playmaker
+Player_031,900031,Demo Club Norte,CB,3,Sweeper,-1.7723,1.772,"Defender, Controlador",609,0.4075,23.49,champions,CB - Sweeper
+Player_032,900032,Demo Club Capital,CF,1,Poacher,-4.9368,3.9812,"Asociativo, Técnico",845,0.5091,6.57,europa,CF - Poacher
+Player_033,900033,Demo Club Mediterráneo,WF,2,Wide Playmaker,-1.6029,-2.2074,"Interior, Desbordador",206,0.6,2.58,media_tabla,WF - Wide Playmaker
+Player_033,900033,Demo Club Mediterráneo,FB,2,Inverted Wing Back,-2.5707,2.1196,"Ofensivo, Exterior",870,0.5115,2.58,media_tabla,FB - Inverted Wing Back
+Player_034,900034,Demo Club Atlántico,WF,2,Wide Playmaker,-0.2026,-1.1059,"Interior, Desbordador",283,0.9307,10.21,baja_tabla,WF - Wide Playmaker
+Player_034,900034,Demo Club Atlántico,FB,3,Full Back,1.7723,-4.3451,"Ofensivo, Exterior",673,0.7944,10.21,baja_tabla,FB - Full Back
+Player_035,900035,Demo Club Sur,CB,2,Ball Playing Defender,2.4435,-0.7663,"Defender, Controlador",152,0.8999,0.76,descenso,CB - Ball Playing Defender
+Player_036,900036,Demo Club Interior,CF,2,Mobile Striker,-1.9361,-3.4791,"Asociativo, Técnico",575,0.5574,3.01,champions,CF - Mobile Striker
+Player_037,900037,Demo Club Norte,WF,3,Winger,2.7886,-1.3536,"Interior, Desbordador",722,0.6453,6.89,europa,WF - Winger
+Player_037,900037,Demo Club Norte,CF,3,Target Man,3.4602,-1.0382,"Asociativo, Técnico",135,0.5338,6.89,europa,CF - Target Man
+Player_038,900038,Demo Club Capital,CMF,2,Holding Midfielder,0.8704,-2.157,"Creador, Vertical",333,0.5176,9.94,media_tabla,CMF - Holding Midfielder
+Player_039,900039,Demo Club Mediterráneo,CB,1,Stopper,0.7428,0.0814,"Defender, Controlador",579,0.4614,1.27,baja_tabla,CB - Stopper
+Player_040,900040,Demo Club Atlántico,AMF,1,Advanced Playmaker,-3.2297,-1.0004,"Llegador, Asistente",550,0.6605,2.23,descenso,AMF - Advanced Playmaker
+Player_040,900040,Demo Club Atlántico,CMF,2,Holding Midfielder,-1.5493,-2.5388,"Creador, Vertical",383,0.5896,2.23,descenso,CMF - Holding Midfielder
+Player_041,900041,Demo Club Sur,CB,2,Ball Playing Defender,-0.6559,-3.965,"Defender, Controlador",408,0.9026,0.75,champions,CB - Ball Playing Defender
+Player_042,900042,Demo Club Interior,DMF,1,Deep Lying Playmaker,0.7151,0.4802,"Organizador, Presionante",730,0.7306,4.19,europa,DMF - Deep Lying Playmaker
+Player_043,900043,Demo Club Norte,DMF,2,Ball Winning Midfielder,0.5812,-2.7597,"Organizador, Presionante",632,0.6232,8.42,media_tabla,DMF - Ball Winning Midfielder
+Player_044,900044,Demo Club Capital,FB,2,Inverted Wing Back,-2.1398,-1.3608,"Ofensivo, Exterior",352,0.4006,17.81,baja_tabla,FB - Inverted Wing Back
+Player_044,900044,Demo Club Capital,DMF,1,Deep Lying Playmaker,1.4666,4.1133,"Organizador, Presionante",354,0.6123,17.81,baja_tabla,DMF - Deep Lying Playmaker
+Player_045,900045,Demo Club Mediterráneo,WF,2,Wide Playmaker,0.0696,-1.6452,"Interior, Desbordador",197,0.531,9.27,descenso,WF - Wide Playmaker
+Player_046,900046,Demo Club Atlántico,CMF,3,Box-to-box Midfielder,1.5731,5.1607,"Creador, Vertical",274,0.6757,11.42,champions,CMF - Box-to-box Midfielder
+Player_046,900046,Demo Club Atlántico,AMF,2,Second Striker,1.2124,-2.7956,"Llegador, Asistente",270,0.663,11.42,champions,AMF - Second Striker
+Player_047,900047,Demo Club Sur,CB,2,Ball Playing Defender,-0.8468,-0.5736,"Defender, Controlador",337,0.8578,3.23,europa,CB - Ball Playing Defender
+Player_048,900048,Demo Club Interior,AMF,2,Second Striker,3.6581,-1.9066,"Llegador, Asistente",248,0.2804,15.41,media_tabla,AMF - Second Striker
+Player_049,900049,Demo Club Norte,DMF,2,Ball Winning Midfielder,2.2018,0.7958,"Organizador, Presionante",334,0.2964,0.82,baja_tabla,DMF - Ball Winning Midfielder
+Player_050,900050,Demo Club Capital,CF,2,Mobile Striker,0.6772,-4.4844,"Asociativo, Técnico",806,0.1474,12.46,descenso,CF - Mobile Striker
+Player_051,900051,Demo Club Mediterráneo,DMF,2,Ball Winning Midfielder,2.6658,-1.5048,"Organizador, Presionante",593,0.7345,5.41,champions,DMF - Ball Winning Midfielder
+Player_052,900052,Demo Club Atlántico,CB,3,Sweeper,0.8431,1.7178,"Defender, Controlador",658,0.1728,4.17,europa,CB - Sweeper
+Player_052,900052,Demo Club Atlántico,DMF,1,Deep Lying Playmaker,-3.2653,0.3805,"Organizador, Presionante",542,0.2875,4.17,europa,DMF - Deep Lying Playmaker
+Player_053,900053,Demo Club Sur,FB,3,Full Back,0.7277,0.5942,"Ofensivo, Exterior",402,0.2916,16.21,media_tabla,FB - Full Back
+Player_053,900053,Demo Club Sur,DMF,1,Deep Lying Playmaker,1.9674,0.8675,"Organizador, Presionante",378,0.9435,16.21,media_tabla,DMF - Deep Lying Playmaker
+Player_054,900054,Demo Club Interior,CMF,1,Playmaker,-1.0019,-1.5128,"Creador, Vertical",630,0.63,3.26,baja_tabla,CMF - Playmaker
+Player_054,900054,Demo Club Interior,DMF,1,Deep Lying Playmaker,0.5825,-4.745,"Organizador, Presionante",520,0.3843,3.26,baja_tabla,DMF - Deep Lying Playmaker
+Player_055,900055,Demo Club Norte,FB,1,Wing Back,0.5786,-0.8999,"Ofensivo, Exterior",219,0.5067,1.53,descenso,FB - Wing Back
+Player_055,900055,Demo Club Norte,WF,2,Wide Playmaker,0.5863,1.0789,"Interior, Desbordador",163,0.7688,1.53,descenso,WF - Wide Playmaker
+Player_056,900056,Demo Club Capital,CMF,1,Playmaker,0.6711,-1.6245,"Creador, Vertical",532,0.3476,4.27,champions,CMF - Playmaker
+Player_057,900057,Demo Club Mediterráneo,WF,1,Inside Forward,0.2669,-1.2893,"Interior, Desbordador",126,0.4176,5.95,europa,WF - Inside Forward
+Player_058,900058,Demo Club Atlántico,FB,1,Wing Back,-0.4739,-0.1197,"Ofensivo, Exterior",828,0.7768,0.46,media_tabla,FB - Wing Back
+Player_058,900058,Demo Club Atlántico,DMF,1,Deep Lying Playmaker,-0.8017,1.1088,"Organizador, Presionante",376,0.9257,0.46,media_tabla,DMF - Deep Lying Playmaker
+Player_059,900059,Demo Club Sur,AMF,2,Second Striker,0.3267,0.1554,"Llegador, Asistente",202,0.7789,43.03,baja_tabla,AMF - Second Striker
+Player_059,900059,Demo Club Sur,CF,2,Mobile Striker,-1.4983,-1.551,"Asociativo, Técnico",309,0.341,43.03,baja_tabla,CF - Mobile Striker
+Player_060,900060,Demo Club Interior,CF,2,Mobile Striker,1.7027,0.8004,"Asociativo, Técnico",479,0.2884,9.25,descenso,CF - Mobile Striker

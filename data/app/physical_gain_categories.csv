@@ -1,0 +1,36 @@
+group,Feature,Gain
+External Load,load,0.032
+External Load,load_rel,0.031
+External Load,acwr,0.029
+External Load,load_spike,0.014
+External Load,acwr_rel,0.01
+External Load,other,0.026
+Neuromuscular Load,High.Dec.Count.P90_last_rel,0.018
+Neuromuscular Load,High.Acc.Count.P90_last_rel,0.016
+Neuromuscular Load,High.Dec.Count.P90_strain_k_rel,0.012
+Neuromuscular Load,High.Acc.Count.P90_cv_k_rel,0.011
+Neuromuscular Load,High.Acc.Count.P90_sum_k,0.01
+Neuromuscular Load,other,0.095
+Performance Capacity,PSV.99_last_rel,0.025
+Performance Capacity,M.min.P90_sd_k_rel,0.012
+Performance Capacity,M.min.P90_sum_k_rel,0.01
+Performance Capacity,M.min.P90_sum_k,0.008
+Performance Capacity,PSV.99_mean_k_rel,0.007
+Performance Capacity,other,0.075
+Speed / High Intensity,Sprint.Distance.P90_cv_k,0.027
+Speed / High Intensity,Sprint.Distance.P90_last_rel,0.023
+Speed / High Intensity,HSR.Distance.P90_sd_k,0.02
+Speed / High Intensity,Sprint.Distance.P90_range_k_rel,0.018
+Speed / High Intensity,Exp.Acc.to.Sprint.Count.P90_sd_k_rel,0.016
+Speed / High Intensity,other,0.21
+Temporal,densidad_competitiva,0.003
+Temporal,days_since_last_match,0.002
+Temporal,days_in_window,0.0015
+Temporal,densidad_competitiva_rel,0.001
+Temporal,other,0.003
+Volume,HI.Distance.P90_mean_k_rel,0.057
+Volume,HI.Distance.P90_last_rel,0.027
+Volume,HI.Distance.P90_sum_k_rel,0.017
+Volume,Running.Distance.P90_last_rel,0.013
+Volume,HI.Distance.P90_sd_k,0.01
+Volume,other,0.078

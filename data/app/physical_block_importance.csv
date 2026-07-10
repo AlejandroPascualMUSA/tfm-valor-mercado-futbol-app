@@ -1,0 +1,3 @@
+block,gain,pct,description
+Base,0.435,0.435,Variables base de carga por ventana
++ Rel,0.565,0.565,Variables normalizadas por posición

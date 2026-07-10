@@ -1,0 +1,92 @@
+player_id,player_name,team,season_injured,injury,date_from,date_until,duration,games_missed,duration_days,injury_group
+900001,Player_001,Demo Club Norte,21/22,Achilles tendon irritation,2021-07-21,2021-09-19,60 days,8.6,60.0,Ligamentosa/tendinosa
+900003,Player_003,Demo Club Mediterráneo,22/23,Calf injury,2022-11-02,2023-01-31,90 days,12.9,90.0,Muscular
+900004,Player_004,Demo Club Atlántico,20/21,Adductor injury,2020-11-24,2020-12-08,14 days,2.0,14.0,Muscular
+900004,Player_004,Demo Club Atlántico,22/23,Adductor injury,2022-08-06,2022-09-05,30 days,4.3,30.0,Muscular
+900006,Player_006,Demo Club Interior,21/22,Shoulder injury,2021-08-17,2021-10-01,45 days,6.4,45.0,Traumatica/otras
+900006,Player_006,Demo Club Interior,21/22,Hamstring strain,2021-10-02,2021-10-23,21 days,3.0,21.0,Muscular
+900007,Player_007,Demo Club Norte,20/21,Ankle sprain,2020-09-04,2020-09-18,14 days,2.0,14.0,Traumatica/otras
+900008,Player_008,Demo Club Capital,20/21,Calf injury,2021-01-28,2021-04-28,90 days,12.9,90.0,Muscular
+900008,Player_008,Demo Club Capital,21/22,Knee injury,2022-05-22,2022-06-05,14 days,2.0,14.0,Ligamentosa/tendinosa
+900008,Player_008,Demo Club Capital,21/22,Hamstring strain,2021-07-08,2021-09-06,60 days,8.6,60.0,Muscular
+900008,Player_008,Demo Club Capital,21/22,Calf injury,2022-02-21,2022-05-22,90 days,12.9,90.0,Muscular
+900010,Player_010,Demo Club Atlántico,21/22,Achilles tendon irritation,2022-06-08,2022-06-18,10 days,1.4,10.0,Ligamentosa/tendinosa
+900010,Player_010,Demo Club Atlántico,22/23,Achilles tendon irritation,2023-05-17,2023-06-07,21 days,3.0,21.0,Ligamentosa/tendinosa
+900010,Player_010,Demo Club Atlántico,22/23,Achilles tendon irritation,2022-08-10,2022-11-08,90 days,12.9,90.0,Ligamentosa/tendinosa
+900011,Player_011,Demo Club Sur,20/21,Hamstring strain,2021-04-19,2021-06-18,60 days,8.6,60.0,Muscular
+900011,Player_011,Demo Club Sur,21/22,Ankle sprain,2022-04-26,2022-06-10,45 days,6.4,45.0,Traumatica/otras
+900012,Player_012,Demo Club Interior,20/21,Foot injury,2021-05-02,2021-06-01,30 days,4.3,30.0,Traumatica/otras
+900012,Player_012,Demo Club Interior,20/21,Back trouble,2021-02-24,2021-03-06,10 days,1.4,10.0,Traumatica/otras
+900012,Player_012,Demo Club Interior,22/23,Back trouble,2023-03-17,2023-06-15,90 days,12.9,90.0,Traumatica/otras
+900013,Player_013,Demo Club Norte,21/22,Adductor injury,2021-11-30,2021-12-21,21 days,3.0,21.0,Muscular
+900013,Player_013,Demo Club Norte,22/23,Adductor injury,2022-11-05,2022-12-05,30 days,4.3,30.0,Muscular
+900013,Player_013,Demo Club Norte,21/22,Calf injury,2021-07-11,2021-07-21,10 days,1.4,10.0,Muscular
+900014,Player_014,Demo Club Capital,20/21,Shoulder injury,2020-08-04,2020-10-03,60 days,8.6,60.0,Traumatica/otras
+900015,Player_015,Demo Club Mediterráneo,20/21,Calf injury,2020-11-22,2020-12-06,14 days,2.0,14.0,Muscular
+900015,Player_015,Demo Club Mediterráneo,23/24,Achilles tendon irritation,2024-05-05,2024-05-19,14 days,2.0,14.0,Ligamentosa/tendinosa
+900015,Player_015,Demo Club Mediterráneo,23/24,Shoulder injury,2024-04-11,2024-05-11,30 days,4.3,30.0,Traumatica/otras
+900015,Player_015,Demo Club Mediterráneo,21/22,Calf injury,2022-03-14,2022-06-12,90 days,12.9,90.0,Muscular
+900016,Player_016,Demo Club Atlántico,22/23,Achilles tendon irritation,2022-10-24,2022-11-07,14 days,2.0,14.0,Ligamentosa/tendinosa
+900017,Player_017,Demo Club Sur,20/21,Achilles tendon irritation,2020-12-27,2021-02-25,60 days,8.6,60.0,Ligamentosa/tendinosa
+900017,Player_017,Demo Club Sur,20/21,Shoulder injury,2020-12-11,2021-02-09,60 days,8.6,60.0,Traumatica/otras
+900017,Player_017,Demo Club Sur,21/22,Knee injury,2022-05-15,2022-05-22,7 days,1.0,7.0,Ligamentosa/tendinosa
+900017,Player_017,Demo Club Sur,21/22,Ankle sprain,2022-04-06,2022-04-20,14 days,2.0,14.0,Traumatica/otras
+900018,Player_018,Demo Club Interior,21/22,Ankle sprain,2022-04-02,2022-06-01,60 days,8.6,60.0,Traumatica/otras
+900018,Player_018,Demo Club Interior,21/22,Knee injury,2022-06-05,2022-09-03,90 days,12.9,90.0,Ligamentosa/tendinosa
+900018,Player_018,Demo Club Interior,21/22,Shoulder injury,2022-03-17,2022-04-07,21 days,3.0,21.0,Traumatica/otras
+900019,Player_019,Demo Club Norte,23/24,Hamstring strain,2023-10-15,2023-11-05,21 days,3.0,21.0,Muscular
+900019,Player_019,Demo Club Norte,21/22,Foot injury,2021-12-25,2022-03-25,90 days,12.9,90.0,Traumatica/otras
+900019,Player_019,Demo Club Norte,20/21,Foot injury,2020-12-15,2021-01-05,21 days,3.0,21.0,Traumatica/otras
+900019,Player_019,Demo Club Norte,20/21,Achilles tendon irritation,2020-10-12,2020-10-26,14 days,2.0,14.0,Ligamentosa/tendinosa
+900020,Player_020,Demo Club Capital,23/24,Adductor injury,2024-04-26,2024-08-24,120 days,17.1,120.0,Muscular
+900022,Player_022,Demo Club Atlántico,20/21,Hamstring strain,2020-12-19,2021-03-19,90 days,12.9,90.0,Muscular
+900024,Player_024,Demo Club Interior,22/23,Foot injury,2023-02-20,2023-02-27,7 days,1.0,7.0,Traumatica/otras
+900025,Player_025,Demo Club Norte,23/24,Shoulder injury,2023-12-19,2024-02-17,60 days,8.6,60.0,Traumatica/otras
+900025,Player_025,Demo Club Norte,20/21,Ankle sprain,2020-11-22,2020-11-29,7 days,1.0,7.0,Traumatica/otras
+900025,Player_025,Demo Club Norte,23/24,Ankle sprain,2024-01-18,2024-02-17,30 days,4.3,30.0,Traumatica/otras
+900026,Player_026,Demo Club Capital,20/21,Calf injury,2020-10-19,2020-10-26,7 days,1.0,7.0,Muscular
+900026,Player_026,Demo Club Capital,20/21,Calf injury,2021-06-22,2021-09-20,90 days,12.9,90.0,Muscular
+900028,Player_028,Demo Club Atlántico,22/23,Shoulder injury,2023-05-31,2023-06-30,30 days,4.3,30.0,Traumatica/otras
+900029,Player_029,Demo Club Sur,21/22,Foot injury,2021-07-06,2021-07-27,21 days,3.0,21.0,Traumatica/otras
+900030,Player_030,Demo Club Interior,22/23,Achilles tendon irritation,2022-07-02,2022-07-23,21 days,3.0,21.0,Ligamentosa/tendinosa
+900032,Player_032,Demo Club Capital,22/23,Calf injury,2022-09-28,2023-01-26,120 days,17.1,120.0,Muscular
+900033,Player_033,Demo Club Mediterráneo,23/24,Achilles tendon irritation,2023-08-14,2023-08-28,14 days,2.0,14.0,Ligamentosa/tendinosa
+900034,Player_034,Demo Club Atlántico,21/22,Knee injury,2021-09-25,2021-12-24,90 days,12.9,90.0,Ligamentosa/tendinosa
+900034,Player_034,Demo Club Atlántico,23/24,Knee injury,2023-12-05,2024-04-03,120 days,17.1,120.0,Ligamentosa/tendinosa
+900034,Player_034,Demo Club Atlántico,23/24,Ankle sprain,2023-12-18,2024-01-08,21 days,3.0,21.0,Traumatica/otras
+900036,Player_036,Demo Club Interior,20/21,Shoulder injury,2021-06-10,2021-07-01,21 days,3.0,21.0,Traumatica/otras
+900037,Player_037,Demo Club Norte,22/23,Hamstring strain,2022-11-20,2023-02-18,90 days,12.9,90.0,Muscular
+900037,Player_037,Demo Club Norte,23/24,Adductor injury,2024-03-31,2024-05-30,60 days,8.6,60.0,Muscular
+900038,Player_038,Demo Club Capital,20/21,Achilles tendon irritation,2020-12-05,2020-12-19,14 days,2.0,14.0,Ligamentosa/tendinosa
+900040,Player_040,Demo Club Atlántico,22/23,Calf injury,2022-12-25,2023-01-15,21 days,3.0,21.0,Muscular
+900040,Player_040,Demo Club Atlántico,21/22,Shoulder injury,2021-11-12,2022-02-10,90 days,12.9,90.0,Traumatica/otras
+900042,Player_042,Demo Club Interior,23/24,Foot injury,2024-06-03,2024-07-18,45 days,6.4,45.0,Traumatica/otras
+900043,Player_043,Demo Club Norte,22/23,Achilles tendon irritation,2022-07-11,2022-08-25,45 days,6.4,45.0,Ligamentosa/tendinosa
+900043,Player_043,Demo Club Norte,21/22,Ankle sprain,2022-02-23,2022-05-24,90 days,12.9,90.0,Traumatica/otras
+900043,Player_043,Demo Club Norte,23/24,Knee injury,2023-07-11,2023-07-25,14 days,2.0,14.0,Ligamentosa/tendinosa
+900043,Player_043,Demo Club Norte,23/24,Foot injury,2023-08-30,2023-09-09,10 days,1.4,10.0,Traumatica/otras
+900047,Player_047,Demo Club Sur,20/21,Knee injury,2021-06-24,2021-08-23,60 days,8.6,60.0,Ligamentosa/tendinosa
+900048,Player_048,Demo Club Interior,20/21,Foot injury,2020-11-08,2021-01-07,60 days,8.6,60.0,Traumatica/otras
+900048,Player_048,Demo Club Interior,20/21,Back trouble,2020-12-11,2021-01-10,30 days,4.3,30.0,Traumatica/otras
+900049,Player_049,Demo Club Norte,20/21,Shoulder injury,2021-01-10,2021-01-20,10 days,1.4,10.0,Traumatica/otras
+900050,Player_050,Demo Club Capital,21/22,Achilles tendon irritation,2022-01-14,2022-02-04,21 days,3.0,21.0,Ligamentosa/tendinosa
+900050,Player_050,Demo Club Capital,23/24,Shoulder injury,2023-10-09,2023-12-08,60 days,8.6,60.0,Traumatica/otras
+900051,Player_051,Demo Club Mediterráneo,23/24,Achilles tendon irritation,2023-08-03,2023-12-01,120 days,17.1,120.0,Ligamentosa/tendinosa
+900051,Player_051,Demo Club Mediterráneo,22/23,Shoulder injury,2023-06-12,2023-07-27,45 days,6.4,45.0,Traumatica/otras
+900051,Player_051,Demo Club Mediterráneo,22/23,Ankle sprain,2023-06-21,2023-10-19,120 days,17.1,120.0,Traumatica/otras
+900051,Player_051,Demo Club Mediterráneo,20/21,Hamstring strain,2020-10-29,2021-02-26,120 days,17.1,120.0,Muscular
+900052,Player_052,Demo Club Atlántico,22/23,Foot injury,2022-09-16,2022-09-23,7 days,1.0,7.0,Traumatica/otras
+900053,Player_053,Demo Club Sur,20/21,Knee injury,2021-01-29,2021-05-29,120 days,17.1,120.0,Ligamentosa/tendinosa
+900053,Player_053,Demo Club Sur,23/24,Achilles tendon irritation,2024-01-12,2024-03-12,60 days,8.6,60.0,Ligamentosa/tendinosa
+900053,Player_053,Demo Club Sur,20/21,Knee injury,2021-05-06,2021-05-20,14 days,2.0,14.0,Ligamentosa/tendinosa
+900053,Player_053,Demo Club Sur,21/22,Ankle sprain,2022-04-28,2022-05-19,21 days,3.0,21.0,Traumatica/otras
+900054,Player_054,Demo Club Interior,23/24,Hamstring strain,2023-08-06,2023-12-04,120 days,17.1,120.0,Muscular
+900056,Player_056,Demo Club Capital,23/24,Ankle sprain,2024-02-04,2024-02-14,10 days,1.4,10.0,Traumatica/otras
+900057,Player_057,Demo Club Mediterráneo,20/21,Back trouble,2020-10-05,2020-10-19,14 days,2.0,14.0,Traumatica/otras
+900057,Player_057,Demo Club Mediterráneo,22/23,Calf injury,2022-10-01,2023-01-29,120 days,17.1,120.0,Muscular
+900058,Player_058,Demo Club Atlántico,23/24,Calf injury,2024-06-15,2024-07-15,30 days,4.3,30.0,Muscular
+900059,Player_059,Demo Club Sur,22/23,Back trouble,2022-09-01,2022-10-31,60 days,8.6,60.0,Traumatica/otras
+900059,Player_059,Demo Club Sur,23/24,Hamstring strain,2023-09-21,2024-01-19,120 days,17.1,120.0,Muscular
+900060,Player_060,Demo Club Interior,21/22,Calf injury,2022-02-23,2022-03-16,21 days,3.0,21.0,Muscular
+900060,Player_060,Demo Club Interior,22/23,Hamstring strain,2023-03-29,2023-04-28,30 days,4.3,30.0,Muscular
+900060,Player_060,Demo Club Interior,21/22,Achilles tendon irritation,2022-03-23,2022-03-30,7 days,1.0,7.0,Ligamentosa/tendinosa
