@@ -24,19 +24,6 @@ También puedes ejecutar desde consola:
 Rscript -e "shiny::runApp('.')"
 ```
 
-## Cambios incorporados
-
-- Todas las tablas usan paginación de 15 filas y se ha eliminado el modo scroller que generaba espacio en blanco.
-- Los gráficos de resumen, riesgo y carga usan `steelblue` cuando no hay codificación categórica específica.
-- La distribución de precio vuelve al histograma original; los excesos de riesgo se mantienen como densidades.
-- La pestaña de roles incluye un pitch con sectores C1-C20, eventos del jugador, sectores principales y sectores vecinos.
-- La pestaña de lesión actualiza las gráficas inferiores con el jugador seleccionado.
-- Los scatter plots de lesión/carga colorean lesionados en rojo y no lesionados en verde.
-- La pestaña de carga añade importancia por bloque y Gain por categorías fisiológicas del modelo.
-- La pestaña de mercado añade SHAP dependence plots, distribución SHAP y clasificación dinámica de infravalorados/sobrestimados por umbral pX de error absoluto.
-- Se añade la pestaña **Buscador** con filtros por parámetros y un estimador de precio por vecinos similares.
-- El comparador usa radares de percentiles en lugar de gráficos de barras.
-
 ## Estructura
 
 ```text
@@ -87,20 +74,6 @@ El estimador de la pestaña **Buscador** no reentrena LightGBM dentro de Shiny. 
 4. El precio estimado es una media ponderada de los vecinos más cercanos.
 
 Para un estimador exactamente igual al modelo del TFM, conviene guardar el modelo LightGBM final como RDS o PMML junto con su matriz de diseño y el mapa de variables categóricas.
-
-## Cambios v3
-
-- Roles: se retiran los percentiles de eventos de esta pestaña y se añade interpretación PC1/PC2 por posición.
-- Riesgo de lesión: body map reconstruido con polígonos anatómicos y mapeo de lesiones del código aportado.
-- Carga física: evolución temporal con línea negra y puntos rojo/verde según lesión; se elimina la tendencia del scatter de riesgo vs ventanas.
-- Comparador: usa todas las posiciones/roles registradas por jugador y permite restringir a posiciones comunes o roles comunes.
-- Buscador/estimador: roles filtrados por posición y porcentaje de similitud de los vecinos utilizados.
-
-## Cambios v6
-
-- Historial médico: las figuras de días desde última lesión e incidencia se renderizan como `plotOutput` estático para evitar fallos de conversión con Plotly y usan directamente `p_lesionContext.csv`.
-- Comparador: selector dinámico robusto; las opciones de posiciones/roles comunes acotan el conjunto de jugadores seleccionables y los radares se renderizan como gráficos estáticos para evitar errores de `scatterpolar`.
-- Buscador/estimador: las estadísticas Wyscout opcionales del estimador se han integrado en el mismo bloque del estimador, sin pestañas separadas.
 
 ## Informes automáticos con RAG
 
