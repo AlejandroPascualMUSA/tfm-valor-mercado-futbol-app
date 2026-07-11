@@ -108,9 +108,9 @@ Sys.setenv(TFM_PYTHON = "C:/Users/aleja/anaconda3/envs/tfm-rag/python.exe")
 Uso desde terminal
 
 ```bash
-python rag/tfm_report_generator.py --report individual --player-name "Vinicius Junior" --data-dir data/app --out-dir reports/generated
+python rag/tfm_report_generator.py --report individual --player-name "Player_001" --data-dir data/app --out-dir reports/generated
 
-python rag/tfm_report_generator.py --report comparison --player-name "Vinicius Junior" --player-name "Rodrygo" --objective Fichaje --data-dir data/app --out-dir reports/generated
+python rag/tfm_report_generator.py --report comparison --player-name "Player_001" --player-name "Player_002" --objective Fichaje --data-dir data/app --out-dir reports/generated
 ```
 
 
